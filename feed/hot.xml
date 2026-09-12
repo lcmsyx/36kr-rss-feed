@@ -5,7 +5,7 @@
     <link>https://36kr.com/hot-list/catalog</link>
     <description>36氪 - 热门榜（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:46:53 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
     <item>
       <title>离谱，OpenAI像素级蒸馏中国公司，逐帧对比打脸了</title>
@@ -56,20 +56,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_8f8b788aeff74d43ae51e8b22ca8e9c0@000000@ai_oswg654224oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“AI写的代码「惨不忍睹」！”Linux内核开发者吐槽：Bug找得挺准，23个补丁最高提速90%，但代码都是我重写的</title>
-      <link>https://36kr.com/p/3978950516636674</link>
-      <guid isPermaLink="true">https://36kr.com/p/3978950516636674</guid>
-      <pubDate>Fri, 11 Sep 2026 13:21:26 +0000</pubDate>
-      <author>CSDN</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_094b495a9f0545ae8a2fa56ee1e24e1c@46958@ai_oswg896433oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>“半价小米”上市即爆款，新能源车的竞争逻辑就是半价？</title>
       <link>https://36kr.com/p/3978919477417607</link>
       <guid isPermaLink="true">https://36kr.com/p/3978919477417607</guid>
       <pubDate>Fri, 11 Sep 2026 13:21:13 +0000</pubDate>
       <author>新能源观察家</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_379c99fd44c7420a9f373a0885c912be@46958@ai_oswg772819oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“AI写的代码「惨不忍睹」！”Linux内核开发者吐槽：Bug找得挺准，23个补丁最高提速90%，但代码都是我重写的</title>
+      <link>https://36kr.com/p/3978950516636674</link>
+      <guid isPermaLink="true">https://36kr.com/p/3978950516636674</guid>
+      <pubDate>Fri, 11 Sep 2026 13:21:26 +0000</pubDate>
+      <author>CSDN</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_094b495a9f0545ae8a2fa56ee1e24e1c@46958@ai_oswg896433oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI找到一种肺药，吃4周“年轻”3岁</title>
@@ -152,20 +152,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_7d01942e1263461383639d24d3efbe67@000000@ai_oswg972981oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“不可能盈利”的前置仓，又火起来了？</title>
-      <link>https://36kr.com/p/3978747681904520</link>
-      <guid isPermaLink="true">https://36kr.com/p/3978747681904520</guid>
-      <pubDate>Fri, 11 Sep 2026 09:15:25 +0000</pubDate>
-      <author>螺旋实验室</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_e26619b5e4b94ea8a415c055b543abac@46958@ai_oswg901178oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>和梁文锋师出同门，浙大00后做世界模型，将再融10亿元｜36氪首发</title>
       <link>https://36kr.com/p/3978921197140998</link>
       <guid isPermaLink="true">https://36kr.com/p/3978921197140998</guid>
       <pubDate>Fri, 11 Sep 2026 11:49:47 +0000</pubDate>
       <author>王欣逸</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_10e940c7ed634ee6872f9d6be4b228e5@6162492_oswg1034348oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“不可能盈利”的前置仓，又火起来了？</title>
+      <link>https://36kr.com/p/3978747681904520</link>
+      <guid isPermaLink="true">https://36kr.com/p/3978747681904520</guid>
+      <pubDate>Fri, 11 Sep 2026 09:15:25 +0000</pubDate>
+      <author>螺旋实验室</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_e26619b5e4b94ea8a415c055b543abac@46958@ai_oswg901178oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI开始研究AI，OpenAI「研究实习生」上岗，奥特曼画的饼已兑现一半</title>
@@ -216,20 +216,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260912/v2_32301ec1c72d4764919a0026076ad224@000000_oswg34321oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A社承认Claude安全对齐存在缺陷，但“尚无解决方案”</title>
-      <link>https://36kr.com/p/3978477718207237</link>
-      <guid isPermaLink="true">https://36kr.com/p/3978477718207237</guid>
-      <pubDate>Fri, 11 Sep 2026 06:47:47 +0000</pubDate>
-      <author>量子位</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_e22251d4f04643bc9331df70637685bb@5091053@ai_oswg843589oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>这家小公司估值已达180亿美元：谷歌挑战英伟达的“秘密武器”</title>
-      <link>https://36kr.com/p/3978787152722944</link>
-      <guid isPermaLink="true">https://36kr.com/p/3978787152722944</guid>
-      <pubDate>Fri, 11 Sep 2026 13:10:32 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_40236be5eab344d3aea5a523327d0769@000000@ai_oswg750770oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>黄仁勋或砸100亿投注Anthropic巨额IPO！</title>
+      <link>https://36kr.com/p/3979884174244613</link>
+      <guid isPermaLink="true">https://36kr.com/p/3979884174244613</guid>
+      <pubDate>Sat, 12 Sep 2026 03:48:12 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260912/v2_36f8d20db2c04c61b779af8fbe684df0@000000_oswg188324oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>“夫妻店”变“夫妻战”：没有她，哪来的lululemon？</title>
@@ -240,20 +232,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_34fe8c63dfec46fb9456b09a99184b8c@000000@ai_oswg724652oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>这家小公司估值已达180亿美元：谷歌挑战英伟达的“秘密武器”</title>
+      <link>https://36kr.com/p/3978787152722944</link>
+      <guid isPermaLink="true">https://36kr.com/p/3978787152722944</guid>
+      <pubDate>Fri, 11 Sep 2026 13:10:32 +0000</pubDate>
+      <author>36氪的朋友们</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_40236be5eab344d3aea5a523327d0769@000000@ai_oswg750770oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A社承认Claude安全对齐存在缺陷，但“尚无解决方案”</title>
+      <link>https://36kr.com/p/3978477718207237</link>
+      <guid isPermaLink="true">https://36kr.com/p/3978477718207237</guid>
+      <pubDate>Fri, 11 Sep 2026 06:47:47 +0000</pubDate>
+      <author>量子位</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_e22251d4f04643bc9331df70637685bb@5091053@ai_oswg843589oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>高达82%，长鑫利润率反超三星SK海力士，成最高盈利水平存储厂商</title>
       <link>https://36kr.com/p/3978656089979652</link>
       <guid isPermaLink="true">https://36kr.com/p/3978656089979652</guid>
       <pubDate>Fri, 11 Sep 2026 07:49:48 +0000</pubDate>
       <author>36氪的朋友们</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_43e2997ef96f4c569883c82d5dd13dc4@46958@ai_oswg733988oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>黄仁勋或砸100亿投注Anthropic巨额IPO！</title>
-      <link>https://36kr.com/p/3979884174244613</link>
-      <guid isPermaLink="true">https://36kr.com/p/3979884174244613</guid>
-      <pubDate>Sat, 12 Sep 2026 03:48:12 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260912/v2_36f8d20db2c04c61b779af8fbe684df0@000000_oswg188324oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>“美国版豆包”又更新了</title>
@@ -280,20 +280,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_96dcb970775a45158c1b042976f5d749@46958@ai_oswg755347oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>选购指南：多亏了iPhone Duo，Pro Max都有性价比了</title>
-      <link>https://36kr.com/p/3978604922764288</link>
-      <guid isPermaLink="true">https://36kr.com/p/3978604922764288</guid>
-      <pubDate>Fri, 11 Sep 2026 08:54:06 +0000</pubDate>
-      <author>爱范儿</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_ec3a0142383545e49c3e65f5a0d22c26@000000@ai_oswg610502oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>腾讯一笔浮盈300亿</title>
       <link>https://36kr.com/p/3978799920053254</link>
       <guid isPermaLink="true">https://36kr.com/p/3978799920053254</guid>
       <pubDate>Fri, 11 Sep 2026 10:54:39 +0000</pubDate>
       <author>投资界</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_ae94c0e9266c424c8d60ed17c68fce35@000000@ai_oswg765694oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>选购指南：多亏了iPhone Duo，Pro Max都有性价比了</title>
+      <link>https://36kr.com/p/3978604922764288</link>
+      <guid isPermaLink="true">https://36kr.com/p/3978604922764288</guid>
+      <pubDate>Fri, 11 Sep 2026 08:54:06 +0000</pubDate>
+      <author>爱范儿</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_ec3a0142383545e49c3e65f5a0d22c26@000000@ai_oswg610502oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>好大夫，正在告别</title>
@@ -360,20 +360,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_9055a30c82ca49f5863d4c7d89c59a82@46958@ai_oswg854110oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI越普及，这2个特质越值钱，Canva首席人事官亲口爆料</title>
-      <link>https://36kr.com/p/3978717583742854</link>
-      <guid isPermaLink="true">https://36kr.com/p/3978717583742854</guid>
-      <pubDate>Fri, 11 Sep 2026 08:55:09 +0000</pubDate>
-      <author>雷科技</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_2af0bb5a63324681b4fca56134125d85@46958@ai_oswg892341oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>参议院调查OpenAI：1200个智能体私建"留言板"，5月就露馅，为何没人踩刹车</title>
       <link>https://36kr.com/p/3978812931643014</link>
       <guid isPermaLink="true">https://36kr.com/p/3978812931643014</guid>
       <pubDate>Fri, 11 Sep 2026 13:08:16 +0000</pubDate>
       <author>AI唱反调</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_dad44ac029c24cbda72de546c864d070@46958@ai_oswg884520oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI越普及，这2个特质越值钱，Canva首席人事官亲口爆料</title>
+      <link>https://36kr.com/p/3978717583742854</link>
+      <guid isPermaLink="true">https://36kr.com/p/3978717583742854</guid>
+      <pubDate>Fri, 11 Sep 2026 08:55:09 +0000</pubDate>
+      <author>雷科技</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260911/v2_2af0bb5a63324681b4fca56134125d85@46958@ai_oswg892341oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>梅卡曼德CEO炮轰银河通用，真相是什么？</title>
