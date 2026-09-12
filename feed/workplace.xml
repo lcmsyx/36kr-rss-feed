@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:05:42 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>日薪千元的AI实习生，在焦虑什么？</title>
+      <link>https://36kr.com/p/3980179218699912</link>
+      <guid isPermaLink="true">https://36kr.com/p/3980179218699912</guid>
+      <pubDate>Sat, 12 Sep 2026 09:24:39 +0000</pubDate>
+      <author>AIX财经</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260912/v2_e96a109f864f494da89722dcdbc9ff22@000000_oswg150461oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;AI抢人大战烧到了实习生。</description>
+    </item>
     <item>
       <title>他们曾经以为，可以在诺基亚干到退休</title>
       <link>https://36kr.com/p/3978805891176069</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 08 Sep 2026 03:01:50 +0000</pubDate>
       <author>红杉汇</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260908/v2_cf6d91d9e3cb41128af94cb9080b82ed@5091053@ai_oswg798022oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;判断力、声音与在场感的悄然流失</description>
-    </item>
-    <item>
-      <title>企业 AI 落地的红皇后效应：你拼命跑，却停在原地</title>
-      <link>https://36kr.com/p/3973945119158787</link>
-      <guid isPermaLink="true">https://36kr.com/p/3973945119158787</guid>
-      <pubDate>Tue, 08 Sep 2026 03:01:34 +0000</pubDate>
-      <author>湘江数评-老杨</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260908/v2_47402b30be854f2aa6665f43ced65322@5091053@ai_oswg867234oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI技术预算翻倍、竞争力却原地，问题不在市场，而在企业内部的生产力与生产关系错位。</description>
     </item>
   </channel>
 </rss>
