@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:36:45 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>领导力的起点，先回答“我是谁”</title>
+      <link>https://36kr.com/p/3981080455101449</link>
+      <guid isPermaLink="true">https://36kr.com/p/3981080455101449</guid>
+      <pubDate>Sun, 13 Sep 2026 02:28:03 +0000</pubDate>
+      <author>哈佛商业评论</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260913/v2_4c8722796cbb4ca8bd22ec411fd06650@000000@ai_oswg539939oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;描绘出构成自己身份的多个因素。</description>
+    </item>
     <item>
       <title>日薪千元的AI实习生，在焦虑什么？</title>
       <link>https://36kr.com/p/3980179218699912</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 08 Sep 2026 03:05:41 +0000</pubDate>
       <author>哈佛商业评论</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260908/v2_ce1b6d3189c14946b52d4b08828d90cc@5091053@ai_oswg870393oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;怎样设计高质量的曲线球式提问？</description>
-    </item>
-    <item>
-      <title>CEO用AI写演讲稿，却发现自己的“声音”不见了</title>
-      <link>https://36kr.com/p/3974004556313092</link>
-      <guid isPermaLink="true">https://36kr.com/p/3974004556313092</guid>
-      <pubDate>Tue, 08 Sep 2026 03:01:50 +0000</pubDate>
-      <author>红杉汇</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260908/v2_cf6d91d9e3cb41128af94cb9080b82ed@5091053@ai_oswg798022oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;判断力、声音与在场感的悄然流失</description>
     </item>
   </channel>
 </rss>
