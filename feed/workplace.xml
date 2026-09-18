@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:39:04 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>想做AI产品经理，技术到底要懂到什么程度？</title>
+      <link>https://36kr.com/p/3988129424472837</link>
+      <guid isPermaLink="true">https://36kr.com/p/3988129424472837</guid>
+      <pubDate>Fri, 18 Sep 2026 00:13:34 +0000</pubDate>
+      <author>人人都是产品经理</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260918/v2_74917bc3ae9a43a58c7ec13f18dc6ede@1743780481@ai_oswg879723oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;不需要。</description>
+    </item>
     <item>
       <title>模型满分，业务归零——AI商业化的最后一公里</title>
       <link>https://36kr.com/p/3987408770094722</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 14 Sep 2026 03:07:40 +0000</pubDate>
       <author>嗅态</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260913/v2_2551770c72a54255893c2bacfefdb8a5@1743780481@ai_oswg880323oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;人不是突然吃不了苦的。</description>
-    </item>
-    <item>
-      <title>野心过大，还是格局不足？这8个问题帮你判断</title>
-      <link>https://36kr.com/p/3982500325440518</link>
-      <guid isPermaLink="true">https://36kr.com/p/3982500325440518</guid>
-      <pubDate>Mon, 14 Sep 2026 02:34:33 +0000</pubDate>
-      <author>哈佛商业评论</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260914/v2_d7c90abe0f8d482aafa1d4d5e90e1a3f@000000@ai_oswg817146oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;匹配机遇，设定野心。</description>
     </item>
   </channel>
 </rss>
