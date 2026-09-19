@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_recommend</link>
     <description>36氪 - 推荐（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:52:38 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>信息太多，分不清该相信谁时该怎么办</title>
+      <link>https://36kr.com/p/3957515029183623</link>
+      <guid isPermaLink="true">https://36kr.com/p/3957515029183623</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:15 +0000</pubDate>
+      <author>神译局</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260827/v2_be6f5f0e9ad54f699485808ceb94e7cf@5382598_oswg1197812oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;“看起来可信”和“真正可信”相距甚远。</description>
+    </item>
     <item>
       <title>140亿独角兽亲儿子破产：欠员工2300万</title>
       <link>https://36kr.com/p/3988842701208581</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 18 Sep 2026 07:22:01 +0000</pubDate>
       <author>36氪的朋友们</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260918/v2_6169dd4e155c4ab283020fe86f75f2ca@1743780481_oswg682504oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;“哪有这好事儿？”</description>
-    </item>
-    <item>
-      <title>iPhone 18 Pro 拍照最有意思的升级，是两个「自相矛盾」的 AI 功能</title>
-      <link>https://36kr.com/p/3985530003635207</link>
-      <guid isPermaLink="true">https://36kr.com/p/3985530003635207</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:51 +0000</pubDate>
-      <author>爱范儿</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260918/v2_3503c16bf67c4fb6b66a6f299ab8332b@1743780481@ai_oswg900556oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;未来，摄像头要抢在任何算法介入之前，证明「以上像素来自我」</description>
     </item>
   </channel>
 </rss>

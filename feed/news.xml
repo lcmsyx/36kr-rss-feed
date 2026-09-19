@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_news</link>
     <description>36氪 - 最新资讯（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:52:36 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>信息太多，分不清该相信谁时该怎么办</title>
+      <link>https://36kr.com/p/3957515029183623</link>
+      <guid isPermaLink="true">https://36kr.com/p/3957515029183623</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:15 +0000</pubDate>
+      <author>神译局</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260827/v2_be6f5f0e9ad54f699485808ceb94e7cf@5382598_oswg1197812oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;“看起来可信”和“真正可信”相距甚远。</description>
+    </item>
     <item>
       <title>HYROX道歉，「中产最爱赛事」何以走到今天？</title>
       <link>https://36kr.com/p/3984230181010434</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 18 Sep 2026 12:17:20 +0000</pubDate>
       <author>36氪的朋友们</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260918/v2_87785e1366694c2c926b1bb0f1fcef5a@5888275@ai_oswg978543oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;这次，机器人进门直接干活。</description>
-    </item>
-    <item>
-      <title>GPT-5.6被抓现行，偷教AI瞒报撒谎，OpenAI曝光6起失控实录</title>
-      <link>https://36kr.com/p/3988791341398792</link>
-      <guid isPermaLink="true">https://36kr.com/p/3988791341398792</guid>
-      <pubDate>Fri, 18 Sep 2026 12:13:06 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260918/v2_a8dd901cc2fc4ebab31b463bf8f70ca1@5888275@ai_oswg855580oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;OpenAI自曝家丑，急踩刹车</description>
     </item>
   </channel>
 </rss>
