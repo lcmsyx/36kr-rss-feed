@@ -5,8 +5,232 @@
     <link>https://36kr.com/information/web_recommend</link>
     <description>36氪 - 推荐（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:38:22 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学</title>
+      <link>https://36kr.com/p/3994523878346625</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994523878346625</guid>
+      <pubDate>Tue, 22 Sep 2026 13:52:54 +0000</pubDate>
+      <author>硅谷101</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_d9c209d7c00547e99d4ea895db454c89@46958@ai_oswg826433oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;想跳出局部最优，就得先想好放弃什么。</description>
+    </item>
+    <item>
+      <title>本地版Jev 1G内存就能跑，四舍五入等于不要钱啊</title>
+      <link>https://36kr.com/p/3994487487631489</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994487487631489</guid>
+      <pubDate>Tue, 22 Sep 2026 12:15:43 +0000</pubDate>
+      <author>量子位</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_40bcd268de8e4aebaabc4991541907ee@46958@ai_oswg677575oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;每秒60次决策</description>
+    </item>
+    <item>
+      <title>朱啸虎错在哪儿？</title>
+      <link>https://36kr.com/p/3994413166399366</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994413166399366</guid>
+      <pubDate>Tue, 22 Sep 2026 11:44:51 +0000</pubDate>
+      <author>字母榜</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_1062bff50b13432dab9f28fce064c2a1@000000@ai_oswg741915oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;朱啸虎“看空”AI三年后</description>
+    </item>
+    <item>
+      <title>罗福莉和马斯克同日正面交锋：相同跑分，成本却差 29 倍</title>
+      <link>https://36kr.com/p/3994417620012928</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994417620012928</guid>
+      <pubDate>Tue, 22 Sep 2026 11:41:42 +0000</pubDate>
+      <author>新智核</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_09b7cf1ca627446b96d2a282d9d22339@000000@ai_oswg783117oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;马斯克 Grok 4.7交卷，这次又输惨了？</description>
+    </item>
+    <item>
+      <title>ChatGPT版Grok Bot代码曝光，OpenAI也要为你造不下班的AI同事</title>
+      <link>https://36kr.com/p/3994454894432384</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994454894432384</guid>
+      <pubDate>Tue, 22 Sep 2026 11:33:23 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_21cc25fa0d9c4cd585e2c36759a1e8ff@000000@ai_oswg840988oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事</description>
+    </item>
+    <item>
+      <title>Kimi K3登陆AWS：中国大模型开始"收租"，月之暗面把开源玩成了收费站</title>
+      <link>https://36kr.com/p/3994378088667009</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994378088667009</guid>
+      <pubDate>Tue, 22 Sep 2026 11:04:42 +0000</pubDate>
+      <author>AI唱反调</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_902ee2e55c9440768fd2a782cfc1538f@46958@ai_oswg666897oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;中国开源模型首次向云厂商收租</description>
+    </item>
+    <item>
+      <title>罗福莉终于杀死了“天才少女”</title>
+      <link>https://36kr.com/p/3994413124063109</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994413124063109</guid>
+      <pubDate>Tue, 22 Sep 2026 10:49:00 +0000</pubDate>
+      <author>字母榜</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_92fb487d43bb495f9ea00be79795f115@6100851_oswg882371oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;“工程挑战超过了DeepSeek R1”</description>
+    </item>
+    <item>
+      <title>中国最大独立Token工厂：融了29亿</title>
+      <link>https://36kr.com/p/3994363988655106</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994363988655106</guid>
+      <pubDate>Tue, 22 Sep 2026 10:44:33 +0000</pubDate>
+      <author>铅笔道</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_971846eb861343618d871f783b14221d@000000@ai_oswg780212oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;今年，Token已经成为AI行业新的"硬通货"。</description>
+    </item>
+    <item>
+      <title>纯过日子的中产，只逛有「自营商品」的超市?</title>
+      <link>https://36kr.com/p/3994310383369223</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994310383369223</guid>
+      <pubDate>Tue, 22 Sep 2026 09:46:40 +0000</pubDate>
+      <author>Vista氢商业</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_57447cbdd7e041edb185f8a7a8a8d472@000000@ai_oswg1034095oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;零售业的下一个十年离不开自营</description>
+    </item>
+    <item>
+      <title>Jev爆火，具身智能迎来大救星？</title>
+      <link>https://36kr.com/p/3994311534384773</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994311534384773</guid>
+      <pubDate>Tue, 22 Sep 2026 09:39:49 +0000</pubDate>
+      <author>AIX财经</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_838529bbce8745839f76425b88a27743@46958@ai_oswg676135oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI圈需要新故事。</description>
+    </item>
+    <item>
+      <title>AI眼镜退货率最高70%背后：Rokid、千问、雷鸟的一场“非技术PK”</title>
+      <link>https://36kr.com/p/3994303378397065</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994303378397065</guid>
+      <pubDate>Tue, 22 Sep 2026 09:38:08 +0000</pubDate>
+      <author>剁椒Spicy</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_fc2bd2dc4f36456eaf56278ac533f21d@46958@ai_oswg659098oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;“场外因素”成为产品力本身</description>
+    </item>
+    <item>
+      <title>新鲜零食一个月卖2500万，“小山姆”杀疯了</title>
+      <link>https://36kr.com/p/3994307072391940</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994307072391940</guid>
+      <pubDate>Tue, 22 Sep 2026 09:17:01 +0000</pubDate>
+      <author>IC实验室</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_da6401ff785044ceb7cb6e02370cf006@000000@ai_oswg1006647oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;大家都在读山姆学这本书，都在摸山姆这块石头。但山姆做到这个程度，说简单点，不过就是做还算合格的产品，开大家愿意逛的店，赚应该赚的利润。</description>
+    </item>
+    <item>
+      <title>美国汽车玩不起了，联名请愿：在美禁售中国车</title>
+      <link>https://36kr.com/p/3994265814154244</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994265814154244</guid>
+      <pubDate>Tue, 22 Sep 2026 08:33:52 +0000</pubDate>
+      <author>超电实验室</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_b6891d3b636a4158a2a2eaac323d56d3@000000@ai_oswg906452oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;建厂也不行</description>
+    </item>
+    <item>
+      <title>2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远</title>
+      <link>https://36kr.com/p/3994316084214534</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994316084214534</guid>
+      <pubDate>Tue, 22 Sep 2026 08:33:06 +0000</pubDate>
+      <author>未来一氪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_e427e8319b284b6fb9ce5bb81b15e7d7@6301044_oswg90540oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;36氪2026出海大会聚焦中国企业出海长期经营</description>
+    </item>
+    <item>
+      <title>南北丰田，整而不合？</title>
+      <link>https://36kr.com/p/3994239761831553</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994239761831553</guid>
+      <pubDate>Tue, 22 Sep 2026 08:16:57 +0000</pubDate>
+      <author>伯虎财经</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_5bf29daf38824f1283c7b5aeca1db38d@46958@ai_oswg732486oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;合资的时代过去了。</description>
+    </item>
+    <item>
+      <title>第一批误食“超长蛋挞”的人已经哭晕了</title>
+      <link>https://36kr.com/p/3994082676325126</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994082676325126</guid>
+      <pubDate>Tue, 22 Sep 2026 08:13:57 +0000</pubDate>
+      <author>槽值</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_542fcf3de1bd439ea89aa9478a58adb7@000000@ai_oswg805063oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;两眼一睁就是比谁更会吃。</description>
+    </item>
+    <item>
+      <title>一个时代的退潮：无招投奔百望，叶军携深空之序迎战老东家</title>
+      <link>https://36kr.com/p/3994056931851014</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994056931851014</guid>
+      <pubDate>Tue, 22 Sep 2026 08:07:18 +0000</pubDate>
+      <author>人称T客</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_cfeed05dfb734f88ac3273ad12a329ee@000000@ai_oswg884825oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;一个时代的退潮，一场与老东家的正面对决</description>
+    </item>
+    <item>
+      <title>国货美妆“家族化”，那些消费者不知道的事</title>
+      <link>https://36kr.com/p/3994033481537410</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994033481537410</guid>
+      <pubDate>Tue, 22 Sep 2026 07:31:21 +0000</pubDate>
+      <author>惊蛰研究所</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_bf18abba8de5456c81ae6dade87c08ba@46958@ai_oswg684447oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;换汤不换药？</description>
+    </item>
+    <item>
+      <title>罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个 Agent 基准比肩闭源旗舰</title>
+      <link>https://36kr.com/p/3994203967978505</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994203967978505</guid>
+      <pubDate>Tue, 22 Sep 2026 07:23:46 +0000</pubDate>
+      <author>AI前线</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_c58a8fe56b1c47cfb1feb567400403b1@000000@ai_oswg851837oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;模型介绍、技术实现细节、 实测案例都在这里了。</description>
+    </item>
+    <item>
+      <title>逼疯穷鬼的“机票刺客”，意外捧红一个新顶流</title>
+      <link>https://36kr.com/p/3994202055998468</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994202055998468</guid>
+      <pubDate>Tue, 22 Sep 2026 07:21:11 +0000</pubDate>
+      <author>金错刀</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_7ca5f889edf94584ad5da56ec729a703@000000@ai_oswg872892oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;消失十年的大巴，为何杀回来了？</description>
+    </item>
+    <item>
+      <title>圆桌：速度与人心：AI让内容无限生成，"打动人心"归谁管｜36氪2026 East Forward 出海大会</title>
+      <link>https://36kr.com/p/3994215677590279</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994215677590279</guid>
+      <pubDate>Tue, 22 Sep 2026 07:04:40 +0000</pubDate>
+      <author>未来一氪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_555ba3adaab741f495a0edf032e99576@6301044_oswg961281oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;AI赋能内容出海，核心仍需人做判断与本土化沉淀</description>
+    </item>
+    <item>
+      <title>从商超到平台，2026年为什么都在走向自营</title>
+      <link>https://36kr.com/p/3993263041444864</link>
+      <guid isPermaLink="true">https://36kr.com/p/3993263041444864</guid>
+      <pubDate>Tue, 22 Sep 2026 05:48:41 +0000</pubDate>
+      <author>壹览商业</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_79ca1ee9483e45c4a3ceba4051183c58@5091053@ai_oswg996303oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;做自营，最考验零售业玩家的基本功。</description>
+    </item>
+    <item>
+      <title>圆桌：产业资本的新航线：出海下半场，钱该投向哪里｜36氪2026 East Forward 出海大会</title>
+      <link>https://36kr.com/p/3994057351953411</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994057351953411</guid>
+      <pubDate>Tue, 22 Sep 2026 04:08:01 +0000</pubDate>
+      <author>未来一氪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_8a3d520f5e6240e3b5c462025b9d5f41@6301044_oswg1056278oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;2026出海大会圆桌：聚焦出海资金配置与长期投入建议</description>
+    </item>
+    <item>
+      <title>全球唯一非侵入穿颅读脑突破，这家中国公司想成为脑科学的“英伟达”</title>
+      <link>https://36kr.com/p/3994001698372611</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994001698372611</guid>
+      <pubDate>Tue, 22 Sep 2026 04:02:51 +0000</pubDate>
+      <author>机器之心</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_a4f56cbbe2ca4ff0a1885a293101d185@5091053@ai_oswg868296oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;成为全球脑科学研究的关键Infra，是鲲为更大的愿景。</description>
+    </item>
+    <item>
+      <title>专访Jev发明者：把工作流程掌握在程序里，只在需要理解和判断的地方嵌入AI</title>
+      <link>https://36kr.com/p/3994032312630020</link>
+      <guid isPermaLink="true">https://36kr.com/p/3994032312630020</guid>
+      <pubDate>Tue, 22 Sep 2026 04:01:55 +0000</pubDate>
+      <author>36氪的朋友们</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_91001d6f3f7f4b2b95226d445f3ff187@5091053@ai_oswg855719oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI已经能解决数学领域极其困难的问题，却仍然很难自动化大量基础工作。</description>
+    </item>
+    <item>
+      <title>创新药烧掉的钱，保险公司开始兜底了</title>
+      <link>https://36kr.com/p/3993821475601156</link>
+      <guid isPermaLink="true">https://36kr.com/p/3993821475601156</guid>
+      <pubDate>Tue, 22 Sep 2026 02:52:38 +0000</pubDate>
+      <author>动脉网</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_ecf8e5e7e6a84debb2a656f248ee2b5a@5091053@ai_oswg952747oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;卡点：不是不敢保，是算不清</description>
+    </item>
+    <item>
+      <title>36氪首发丨高瓴投过的飞控与显示系统供应商再获超五千万元融资，半年内连融三轮</title>
+      <link>https://36kr.com/p/3993975293836292</link>
+      <guid isPermaLink="true">https://36kr.com/p/3993975293836292</guid>
+      <pubDate>Tue, 22 Sep 2026 02:42:52 +0000</pubDate>
+      <author>乔钰杰</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_a5f99c514fa9443f9e39293dcf38aeda@000000_oswg42654oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;具备DAL A级机载核心航电系统研制与适航能力。</description>
+    </item>
+    <item>
+      <title>营收数亿后，这家硬件公司又用世界模型做了个AI高尔夫训练助手｜Insight全球</title>
+      <link>https://36kr.com/p/3992495927393026</link>
+      <guid isPermaLink="true">https://36kr.com/p/3992495927393026</guid>
+      <pubDate>Tue, 22 Sep 2026 02:00:00 +0000</pubDate>
+      <author>黄 楠</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_6cc7d22fb1ce4bf3ad7d0e2c31aceddd@6022551_oswg1067550oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;硬件是一次性入口，服务才是品牌与用户长期关系的开始。</description>
+    </item>
     <item>
       <title>港科大团队推冷原子系统标准化方案，获量旋科技等两轮数千万融资丨36氪首发</title>
       <link>https://36kr.com/p/3993888512801792</link>
@@ -22,230 +246,6 @@
       <pubDate>Tue, 22 Sep 2026 00:30:00 +0000</pubDate>
       <author>兰芥</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_061ca79dd6e24e679e0ff3f6974c8fd9@5899452_oswg1003488oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;热度之后，还有全面布局。</description>
-    </item>
-    <item>
-      <title>8点1氪丨闲鱼回应“暗藏涉黄产业链”；西贝被传倒闭后，贾国龙最新发声；AMD总市值首次突破1万亿美元</title>
-      <link>https://36kr.com/p/3993831103347713</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993831103347713</guid>
-      <pubDate>Tue, 22 Sep 2026 00:15:14 +0000</pubDate>
-      <author>8点1氪</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_3b16a850292e47f4bffd37f416e7a44b@1200352198_oswg82784oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;2026年1月至今，闲鱼已累计冻结色情引流类风险账号98358个。</description>
-    </item>
-    <item>
-      <title>卖废品上瘾的年轻人，遍地开花的回收机</title>
-      <link>https://36kr.com/p/3993791241419784</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993791241419784</guid>
-      <pubDate>Mon, 21 Sep 2026 23:53:06 +0000</pubDate>
-      <author>刺猬公社</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_9156528e45824a5cb87682bf14de299b@5091053@ai_oswg702233oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;当年轻人潜入废品江湖</description>
-    </item>
-    <item>
-      <title>本轮创新药行情的一个新变化：“湿实验”正在成为AI制药时代核心资产</title>
-      <link>https://36kr.com/p/3993792169999367</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993792169999367</guid>
-      <pubDate>Mon, 21 Sep 2026 23:49:51 +0000</pubDate>
-      <author>医曜</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_f727001105714788b2d3e3bb456d72f5@5091053@ai_oswg889304oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;中国“湿实验”上市公司图谱</description>
-    </item>
-    <item>
-      <title>华为，想「成为英伟达」</title>
-      <link>https://36kr.com/p/3993089533115401</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993089533115401</guid>
-      <pubDate>Mon, 21 Sep 2026 13:19:34 +0000</pubDate>
-      <author>硬核看板</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_18a29458f27f43aea9a4231dd7a03f1a@000000@ai_oswg709721oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;不够成熟，但有成为竞争者的可能</description>
-    </item>
-    <item>
-      <title>辍学00后，估值670亿：卖了10万个AI助手</title>
-      <link>https://36kr.com/p/3993105060379656</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993105060379656</guid>
-      <pubDate>Mon, 21 Sep 2026 13:14:05 +0000</pubDate>
-      <author>铅笔道</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_2321503316534814934c650561d97eb1@000000@ai_oswg711700oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;为什么Instinct这么值钱？因为强得有点可怕。</description>
-    </item>
-    <item>
-      <title>iPhone 19被跳过？iPhone 20 Pro配置曝光</title>
-      <link>https://36kr.com/p/3993100763347970</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993100763347970</guid>
-      <pubDate>Mon, 21 Sep 2026 13:12:22 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_64060346b2a14bf19172456fd44e0750@46958@ai_oswg699917oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;2027年是iPhone诞生20周年。</description>
-    </item>
-    <item>
-      <title>7款App矩阵作战，字节打造短剧工厂？</title>
-      <link>https://36kr.com/p/3993081415334658</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993081415334658</guid>
-      <pubDate>Mon, 21 Sep 2026 13:09:06 +0000</pubDate>
-      <author>Tech星球</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_573a016ad32141768b12438e58a27906@000000@ai_oswg903298oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;大厂角逐AI短剧市场。</description>
-    </item>
-    <item>
-      <title>联想，卖掉了自己的“铁饭碗”</title>
-      <link>https://36kr.com/p/3992997594748807</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992997594748807</guid>
-      <pubDate>Mon, 21 Sep 2026 12:47:55 +0000</pubDate>
-      <author>超聚焦</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_7d11cf10dcaf4e7b85cae6cbc7393717@46958@ai_oswg798849oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;老黄一句话，联想要“梭哈”</description>
-    </item>
-    <item>
-      <title>奇瑞的海归品牌，可能要回国了</title>
-      <link>https://36kr.com/p/3993030150011648</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993030150011648</guid>
-      <pubDate>Mon, 21 Sep 2026 12:46:14 +0000</pubDate>
-      <author>超电实验室</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_fca9c39ff9384684ba3c96c6de76e0a5@000000@ai_oswg739303oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;海外反哺国内</description>
-    </item>
-    <item>
-      <title>OpenAI研究员惊人言论：物理隔离无法阻止失控AI</title>
-      <link>https://36kr.com/p/3993094887406336</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993094887406336</guid>
-      <pubDate>Mon, 21 Sep 2026 12:42:31 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_884a6a9b52b243e39c7f568052783b32@46958@ai_oswg731999oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;OpenAI研究员称物理隔离拦不住失控AI，AI安全存多重风险。</description>
-    </item>
-    <item>
-      <title>为什么现炒正餐正在离开购物中心？</title>
-      <link>https://36kr.com/p/3993043979942663</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993043979942663</guid>
-      <pubDate>Mon, 21 Sep 2026 11:39:50 +0000</pubDate>
-      <author>联商网</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_8d77e304d99e4d64897d2e2e928415dc@46958@ai_oswg877470oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;餐饮行业没有绝对好的品类，只有适配与否的场景。</description>
-    </item>
-    <item>
-      <title>GPT-6真敢杀人啊，推下天台，挥刀扎人不眨眼</title>
-      <link>https://36kr.com/p/3993052326198025</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993052326198025</guid>
-      <pubDate>Mon, 21 Sep 2026 11:30:17 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_98fc37a01d6a45659b0f6aab233b57cd@000000@ai_oswg941984oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;天网成真？</description>
-    </item>
-    <item>
-      <title>“去宁化四起”，宁德时代这次扛得住吗？</title>
-      <link>https://36kr.com/p/3993036632357633</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993036632357633</guid>
-      <pubDate>Mon, 21 Sep 2026 11:06:48 +0000</pubDate>
-      <author>投行圈子</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_5bec0808a8f1496ba997fe5103b4ae24@46958@ai_oswg772851oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;车企“去宁化”重构动力电池产业格局。</description>
-    </item>
-    <item>
-      <title>AI正在制造App过剩时代</title>
-      <link>https://36kr.com/p/3993031158889473</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993031158889473</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:23 +0000</pubDate>
-      <author>爱范儿</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_3ffffa86162f4eacbdb1dc8b96b7082b@46958@ai_oswg791693oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;你会为 App 付费吗？</description>
-    </item>
-    <item>
-      <title>花两万，买个机器人还是iPhone Duo？</title>
-      <link>https://36kr.com/p/3993022838864896</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993022838864896</guid>
-      <pubDate>Mon, 21 Sep 2026 10:56:29 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_d5fc9cdd8adb400099e852ae5ee03495@46958@ai_oswg750257oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;编者按：具身智能万亿赛道正在经历一场真实价值与虚高估值的激烈博弈。本篇为《狂奔的机器人》第05期。讨论人形机器人是否正在逐步进入个人消费终端。</description>
-    </item>
-    <item>
-      <title>华为造车再划界</title>
-      <link>https://36kr.com/p/3992993246804736</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992993246804736</guid>
-      <pubDate>Mon, 21 Sep 2026 10:42:30 +0000</pubDate>
-      <author>字母榜</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_e980c91aac1d4d3595bf380d65884b26@000000@ai_oswg744488oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;交出车身，留住灵魂。华为重新聚焦老本行</description>
-    </item>
-    <item>
-      <title>英伟达重仓赛道跑出“量产派”选手，OCS整机商「芯信光」完成数千万元Pre-A轮融资｜36氪首发</title>
-      <link>https://36kr.com/p/3993019383331844</link>
-      <guid isPermaLink="true">https://36kr.com/p/3993019383331844</guid>
-      <pubDate>Mon, 21 Sep 2026 10:33:16 +0000</pubDate>
-      <author>支叶</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_065bb675c96d402786fd0871b38211ed@6413691_oswg86135oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;「直达」的光，供不应求</description>
-    </item>
-    <item>
-      <title>东北今年最大IPO，上市两天惊动监管</title>
-      <link>https://36kr.com/p/3992898043549318</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992898043549318</guid>
-      <pubDate>Mon, 21 Sep 2026 10:19:42 +0000</pubDate>
-      <author>金角财经</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_d43c1a071c7d4d9b9b8ee8aea30c41bb@46958@ai_oswg767838oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;七十多年的老厂，两天被炒出2500多亿元身价。</description>
-    </item>
-    <item>
-      <title>智谱道歉之后，谁来给Agent划边界？</title>
-      <link>https://36kr.com/p/3992992819943041</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992992819943041</guid>
-      <pubDate>Mon, 21 Sep 2026 10:06:48 +0000</pubDate>
-      <author>字母榜</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_ec306d9e39984a91a534f35907cf58b9@46958@ai_oswg635132oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;Agent比人们想象的更危险。</description>
-    </item>
-    <item>
-      <title>从滑雪到网球，这群大厂创业者正在用AI硬件重做运动训练</title>
-      <link>https://36kr.com/p/3992885206678528</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992885206678528</guid>
-      <pubDate>Mon, 21 Sep 2026 09:31:53 +0000</pubDate>
-      <author>IT桔子</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_9728c9e6c32c4836934f0341b7caf5b7@000000@ai_oswg667105oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI 硬件切入运动场景的10个样本</description>
-    </item>
-    <item>
-      <title>30家中国科技公司高管薪酬表：谁在拿最高的薪水</title>
-      <link>https://36kr.com/p/3992873933084551</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992873933084551</guid>
-      <pubDate>Mon, 21 Sep 2026 09:09:34 +0000</pubDate>
-      <author>镜相工作室</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_bad8fed8645349ab983c8f94156390d5@46958@ai_oswg615066oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;薪酬表里，是公司对未来的下注。</description>
-    </item>
-    <item>
-      <title>“别纠结估值，赶紧拿钱”</title>
-      <link>https://36kr.com/p/3992847936076549</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992847936076549</guid>
-      <pubDate>Mon, 21 Sep 2026 09:07:18 +0000</pubDate>
-      <author>投资界</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_cc0ddd47e84b4c44b069834845e8f941@000000@ai_oswg702685oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;具身行业迎来真正洗牌。</description>
-    </item>
-    <item>
-      <title>「黄仁勋」最新访谈：AI末日论太夸张，真正该做的是安全工程</title>
-      <link>https://36kr.com/p/3992887819582468</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992887819582468</guid>
-      <pubDate>Mon, 21 Sep 2026 08:51:55 +0000</pubDate>
-      <author>后浪进化星球</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_2e8c56797864499e8b5d0521d03bf72b@6100851_oswg677389oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;美国应竞争，而不是垄断。</description>
-    </item>
-    <item>
-      <title>奥特曼落榜，OpenAI总裁255亿杀进全美富豪前50</title>
-      <link>https://36kr.com/p/3992838113278723</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992838113278723</guid>
-      <pubDate>Mon, 21 Sep 2026 08:26:12 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_a79246a5072541578bec97d6869c7544@6100851_oswg584126oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;名归奥特曼，利归Brockman</description>
-    </item>
-    <item>
-      <title>刚刚，Jev全网解禁，1.2亿Token限时免费用</title>
-      <link>https://36kr.com/p/3992838099532548</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992838099532548</guid>
-      <pubDate>Mon, 21 Sep 2026 08:22:17 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_e3289c6b2a974567b90481b0ceb86637@000000@ai_oswg774373oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;Jev全开放，分工协同AI，速通MC末影龙成本不到1美元</description>
-    </item>
-    <item>
-      <title>啊啊啊GPT-6 Astra这么不安全，这次马斯克都瘫坐了</title>
-      <link>https://36kr.com/p/3992870265715718</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992870265715718</guid>
-      <pubDate>Mon, 21 Sep 2026 08:11:14 +0000</pubDate>
-      <author>量子位</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_74a69e16e2944f0a94253fff2bb1ae99@46958@ai_oswg759351oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;97%尝试危险行为</description>
-    </item>
-    <item>
-      <title>圆桌：从出口到扎根：中国企业如何完成海外本地化？｜36氪2026 East Forward 出海大会</title>
-      <link>https://36kr.com/p/3992878800256007</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992878800256007</guid>
-      <pubDate>Mon, 21 Sep 2026 08:10:54 +0000</pubDate>
-      <author>未来一氪</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_d0e1644117004b9c857767f17f9e548d@6301044_oswg917538oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;中国企业出海从出口到扎根：把握用户与合规机遇</description>
-    </item>
-    <item>
-      <title>40万部AI短剧，开始“贱人贱己贱行业”了</title>
-      <link>https://36kr.com/p/3992721033870089</link>
-      <guid isPermaLink="true">https://36kr.com/p/3992721033870089</guid>
-      <pubDate>Mon, 21 Sep 2026 08:02:30 +0000</pubDate>
-      <author>金错刀</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260921/v2_63e235ad6b9c4ccd9276f081860bcd2a@000000@ai_oswg1087501oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;无限竞争的结果，一面是大逃杀，另一面是浪里淘沙。</description>
     </item>
   </channel>
 </rss>
