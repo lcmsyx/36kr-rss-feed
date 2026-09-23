@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_news</link>
     <description>36氪 - 最新资讯（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:49:44 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>36氪研究院 | 2026年中国AI Agent行业发展研究报告</title>
+      <link>https://36kr.com/p/3993945763314432</link>
+      <guid isPermaLink="true">https://36kr.com/p/3993945763314432</guid>
+      <pubDate>Tue, 22 Sep 2026 23:30:00 +0000</pubDate>
+      <author>36氪研究院</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_0e29661074f6421188606f767247d3fa@12547972_oswg366343oswg600oswg400_img_png" /&gt;&lt;/p&gt;从模型能力到任务执行，从单点应用到智能协同</description>
+    </item>
     <item>
       <title>中国创新药：从人才回流到全球出海的蝶变</title>
       <link>https://36kr.com/p/3994497376867973</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 22 Sep 2026 11:40:19 +0000</pubDate>
       <author>征探财经</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_02b971e1ff5e43cebebfb73a4a341aac@46958@ai_oswg729937oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;公司与胖东来的合作是公司对新渠道的拓展，取得了有目共睹的良好效果，不会对传统渠道形成冲击，也不会影响品牌价值。</description>
-    </item>
-    <item>
-      <title>辟谣控股权易主，盛和资源海外稀土布局：包销终止仍持有MP股份，坦桑尼亚海外矿山仍卡在审批关口</title>
-      <link>https://36kr.com/p/3994426219712647</link>
-      <guid isPermaLink="true">https://36kr.com/p/3994426219712647</guid>
-      <pubDate>Tue, 22 Sep 2026 11:38:18 +0000</pubDate>
-      <author>时代周报</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260922/v2_f637e624badd47da9db0a5942090b7ef@000000@ai_oswg761830oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;稀土供需与价格分化受关注</description>
     </item>
   </channel>
 </rss>
