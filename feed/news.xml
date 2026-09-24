@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_news</link>
     <description>36氪 - 最新资讯（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:43:44 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>模型之外，游戏+AI的下一道门槛在哪里？</title>
+      <link>https://36kr.com/p/3997468580958089</link>
+      <guid isPermaLink="true">https://36kr.com/p/3997468580958089</guid>
+      <pubDate>Thu, 24 Sep 2026 13:56:48 +0000</pubDate>
+      <author>游氪哩哩</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_4833a563820249b382bde4d6a0ab7820@000000_oswg210348oswg853oswg853_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;一切关于体验与生产的美好想象，在今天的游戏行业才刚刚开始。</description>
+    </item>
     <item>
       <title>从妙可蓝多到钟薛高，那些明星品牌创始人正在离场</title>
       <link>https://36kr.com/p/3997109897385861</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 24 Sep 2026 12:18:22 +0000</pubDate>
       <author>华商韬略</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_d76b4ac34c7c4bc2851bbc1b6f8272bb@000000@ai_oswg704728oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;虎口拔牙。</description>
-    </item>
-    <item>
-      <title>李彦宏的AI课题：百度遇上“快播式”老剧本</title>
-      <link>https://36kr.com/p/3997294414679937</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997294414679937</guid>
-      <pubDate>Thu, 24 Sep 2026 11:42:29 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_1bf4fcd54c2c4d08b9fc16ddbd60a3ff@46958@ai_oswg672601oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI搜索生成失实信息侵害个体名誉，技术中立不能成为平台规避责任的借口。AI商业化高速迭代之下，平台必须同步筑牢风险防控，平衡商业扩张与公共责任，方能实现产业行稳致远。</description>
     </item>
   </channel>
 </rss>

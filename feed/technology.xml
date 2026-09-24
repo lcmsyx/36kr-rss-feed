@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:43:48 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>模型之外，游戏+AI的下一道门槛在哪里？</title>
+      <link>https://36kr.com/p/3997468580958089</link>
+      <guid isPermaLink="true">https://36kr.com/p/3997468580958089</guid>
+      <pubDate>Thu, 24 Sep 2026 13:56:48 +0000</pubDate>
+      <author>游氪哩哩</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_4833a563820249b382bde4d6a0ab7820@000000_oswg210348oswg853oswg853_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;一切关于体验与生产的美好想象，在今天的游戏行业才刚刚开始。</description>
+    </item>
     <item>
       <title>“提车20天变旧款”，华境遭上百名车主集体维权，被吐槽“五菱不配高端”，官方扎心回应：补偿不了</title>
       <link>https://36kr.com/p/3997239493480328</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 24 Sep 2026 08:12:38 +0000</pubDate>
       <author>极客邦科技InfoQ</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_78e35ea280034cb8b370f1f7bf30225b@000000@ai_oswg819855oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;别再把 AI 写的垃圾扔给你同事了，他们本可以没那么忙。</description>
-    </item>
-    <item>
-      <title>GPT价格砍半，比DeepSeek还便宜了</title>
-      <link>https://36kr.com/p/3997027955363971</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997027955363971</guid>
-      <pubDate>Thu, 24 Sep 2026 08:12:03 +0000</pubDate>
-      <author>科技狐</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_4c2a13e7fa2b4199bf0183018519a6c5@000000@ai_oswg699944oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;果然，这年头，性价比才是商业竞争最朴素的杀招。</description>
     </item>
   </channel>
 </rss>
