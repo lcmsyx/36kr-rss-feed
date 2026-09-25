@@ -5,7 +5,7 @@
     <link>https://36kr.com/hot-list/catalog</link>
     <description>36氪 - 热门榜（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:01:21 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
     <item>
       <title>刚刚，DeepSeek Harness桌面预览版上线！</title>
@@ -22,14 +22,6 @@
       <pubDate>Fri, 25 Sep 2026 05:29:38 +0000</pubDate>
       <author>新智元</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_8a41657c98ed4bdbbcf1fca767798f0a@000000@ai_oswg540110oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>模型之外，游戏+AI的下一道门槛在哪里？</title>
-      <link>https://36kr.com/p/3997468580958089</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997468580958089</guid>
-      <pubDate>Thu, 24 Sep 2026 13:56:48 +0000</pubDate>
-      <author>游氪哩哩</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_4833a563820249b382bde4d6a0ab7820@000000_oswg210348oswg853oswg853_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>大厂AI赛马下，腾讯“龙虾”退场</title>
@@ -64,20 +56,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_e9f653abeebb402fa93d3b6282783925@000000@ai_oswg899879oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>每人持股约2%，却要50.1%投票权：Anthropic创始人的IPO算盘</title>
-      <link>https://36kr.com/p/3998243846459524</link>
-      <guid isPermaLink="true">https://36kr.com/p/3998243846459524</guid>
-      <pubDate>Fri, 25 Sep 2026 03:36:34 +0000</pubDate>
-      <author>机器之心</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_d01ab9545a1344b69bd69df9fe24d75a@000000@ai_oswg896544oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>阿莫迪偷师姚顺雨，奥特曼偷师梁文锋</title>
       <link>https://36kr.com/p/3998565950330503</link>
       <guid isPermaLink="true">https://36kr.com/p/3998565950330503</guid>
       <pubDate>Fri, 25 Sep 2026 09:18:07 +0000</pubDate>
       <author>字母AI</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_e762b89ca8144ee29fbacbd47c9e68e6@000000_oswg51562oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉</title>
+      <link>https://36kr.com/p/3998452251545473</link>
+      <guid isPermaLink="true">https://36kr.com/p/3998452251545473</guid>
+      <pubDate>Fri, 25 Sep 2026 08:37:36 +0000</pubDate>
+      <author>量子位</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_8b59824c789242099dd7e142a3420da9@000000@ai_oswg976282oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>每人持股约2%，却要50.1%投票权：Anthropic创始人的IPO算盘</title>
+      <link>https://36kr.com/p/3998243846459524</link>
+      <guid isPermaLink="true">https://36kr.com/p/3998243846459524</guid>
+      <pubDate>Fri, 25 Sep 2026 03:36:34 +0000</pubDate>
+      <author>机器之心</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_d01ab9545a1344b69bd69df9fe24d75a@000000@ai_oswg896544oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧</title>
@@ -88,12 +88,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_7a1d2deaa7714bc6aff2d6d94142dfaa@000000@ai_oswg667307oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉</title>
-      <link>https://36kr.com/p/3998452251545473</link>
-      <guid isPermaLink="true">https://36kr.com/p/3998452251545473</guid>
-      <pubDate>Fri, 25 Sep 2026 08:37:36 +0000</pubDate>
-      <author>量子位</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_8b59824c789242099dd7e142a3420da9@000000@ai_oswg976282oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>跌落神坛的微型电动车：当低价不再是万能灵药</title>
+      <link>https://36kr.com/p/3998423118155911</link>
+      <guid isPermaLink="true">https://36kr.com/p/3998423118155911</guid>
+      <pubDate>Fri, 25 Sep 2026 07:56:08 +0000</pubDate>
+      <author>DoNews</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_5810f839f230418582bb68b5702f95ee@000000@ai_oswg718461oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>月饼第一股，有多赚钱？</title>
@@ -128,12 +128,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_43ff799c02134f04b65256ec557f1b38@000000@ai_oswg830255oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>跌落神坛的微型电动车：当低价不再是万能灵药</title>
-      <link>https://36kr.com/p/3998423118155911</link>
-      <guid isPermaLink="true">https://36kr.com/p/3998423118155911</guid>
-      <pubDate>Fri, 25 Sep 2026 07:56:08 +0000</pubDate>
-      <author>DoNews</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_5810f839f230418582bb68b5702f95ee@000000@ai_oswg718461oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>平均翻倍！卖不动钻石，却越涨越猛</title>
+      <link>https://36kr.com/p/3998623185703048</link>
+      <guid isPermaLink="true">https://36kr.com/p/3998623185703048</guid>
+      <pubDate>Fri, 25 Sep 2026 09:49:06 +0000</pubDate>
+      <author>格隆汇</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_250b34bb1e214ab88054a89ea01af6bb@000000@ai_oswg904252oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>代言翻车，谁来背锅</title>
@@ -144,28 +144,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_0c8c523f0cfd47fca56fe5a6f1e6f508@000000@ai_oswg1140009oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>消费分层加剧，Costco依旧"稳坐钓鱼台"？</title>
-      <link>https://36kr.com/p/3998209298206600</link>
-      <guid isPermaLink="true">https://36kr.com/p/3998209298206600</guid>
-      <pubDate>Fri, 25 Sep 2026 04:12:20 +0000</pubDate>
-      <author>海豚投研</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_2e3572bb891347688bd37f11e889cecd@000000@ai_oswg928844oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>平均翻倍！卖不动钻石，却越涨越猛</title>
-      <link>https://36kr.com/p/3998623185703048</link>
-      <guid isPermaLink="true">https://36kr.com/p/3998623185703048</guid>
-      <pubDate>Fri, 25 Sep 2026 09:49:06 +0000</pubDate>
-      <author>格隆汇</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_250b34bb1e214ab88054a89ea01af6bb@000000@ai_oswg904252oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>花上千块买冰箱贴，这届年轻人为何爱上博物馆文创？</title>
       <link>https://36kr.com/p/3998306499465090</link>
       <guid isPermaLink="true">https://36kr.com/p/3998306499465090</guid>
       <pubDate>Fri, 25 Sep 2026 07:38:43 +0000</pubDate>
       <author>金融八卦女</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_c1a13762c33248ee8d40ef9d0e2f9e42@000000@ai_oswg957598oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>消费分层加剧，Costco依旧"稳坐钓鱼台"？</title>
+      <link>https://36kr.com/p/3998209298206600</link>
+      <guid isPermaLink="true">https://36kr.com/p/3998209298206600</guid>
+      <pubDate>Fri, 25 Sep 2026 04:12:20 +0000</pubDate>
+      <author>海豚投研</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_2e3572bb891347688bd37f11e889cecd@000000@ai_oswg928844oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>从TVB到华谊兄弟，黎瑞刚拼出“东方好莱坞”？</title>
