@@ -5,8 +5,48 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 26 Sep 2026 20:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 02:25:28 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>腾讯悄悄做了个“中国版Muse”</title>
+      <link>https://36kr.com/p/4000995103395716</link>
+      <guid isPermaLink="true">https://36kr.com/p/4000995103395716</guid>
+      <pubDate>Sun, 27 Sep 2026 02:08:24 +0000</pubDate>
+      <author>人人都是产品经理</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_32686c008a9346c886c2aa7adba5c4a9@000000@ai_oswg786171oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;大厂又开始卷Personal Agent了？</description>
+    </item>
+    <item>
+      <title>国产旗舰手机又被苹果搅局？</title>
+      <link>https://36kr.com/p/4000899826487173</link>
+      <guid isPermaLink="true">https://36kr.com/p/4000899826487173</guid>
+      <pubDate>Sun, 27 Sep 2026 00:54:10 +0000</pubDate>
+      <author>陆玖商业评论</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_ee8a9025d80c4b43bbeb38dbcd6317e3@000000@ai_oswg979115oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;硬件内卷落幕，生态长跑开始。</description>
+    </item>
+    <item>
+      <title>管住AI，成了一门新生意</title>
+      <link>https://36kr.com/p/4000927879319685</link>
+      <guid isPermaLink="true">https://36kr.com/p/4000927879319685</guid>
+      <pubDate>Sun, 27 Sep 2026 00:41:00 +0000</pubDate>
+      <author>定焦One</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_8cd1174aa4724417bbaa28fb569a2bb5@000000@ai_oswg795562oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;三类玩家，掘金AI安全。</description>
+    </item>
+    <item>
+      <title>刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒</title>
+      <link>https://36kr.com/p/4000844543561857</link>
+      <guid isPermaLink="true">https://36kr.com/p/4000844543561857</guid>
+      <pubDate>Sun, 27 Sep 2026 00:21:39 +0000</pubDate>
+      <author>机器之心</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_6686633520094c7781f7d6f39da79dfe@000000@ai_oswg834676oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;新闻周刊甚至形容AI是在"叛变"。</description>
+    </item>
+    <item>
+      <title>一半的活已经不归 GPU 管了</title>
+      <link>https://36kr.com/p/4000900001878144</link>
+      <guid isPermaLink="true">https://36kr.com/p/4000900001878144</guid>
+      <pubDate>Sun, 27 Sep 2026 00:20:19 +0000</pubDate>
+      <author>王智远</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_c0fc67f30a814dbc9a9ed26acc54a1ac@000000@ai_oswg707736oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;一场 CPU，一场网卡</description>
+    </item>
     <item>
       <title>当AI短剧遇上游戏，漫剧小游戏正成为新的风口</title>
       <link>https://36kr.com/p/4000042689302662</link>
@@ -206,46 +246,6 @@
       <pubDate>Fri, 25 Sep 2026 02:41:23 +0000</pubDate>
       <author>AI前线</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260925/v2_fc2e0c2cf65b4ee3a6553946d6b4dbc9@000000@ai_oswg843497oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;DeepSeek“逢假必放更新”的铁律仍然奏效。</description>
-    </item>
-    <item>
-      <title>模型之外，游戏+AI的下一道门槛在哪里？</title>
-      <link>https://36kr.com/p/3997468580958089</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997468580958089</guid>
-      <pubDate>Thu, 24 Sep 2026 13:56:48 +0000</pubDate>
-      <author>游氪哩哩</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_4833a563820249b382bde4d6a0ab7820@000000_oswg210348oswg853oswg853_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;一切关于体验与生产的美好想象，在今天的游戏行业才刚刚开始。</description>
-    </item>
-    <item>
-      <title>“提车20天变旧款”，华境遭上百名车主集体维权，被吐槽“五菱不配高端”，官方扎心回应：补偿不了</title>
-      <link>https://36kr.com/p/3997239493480328</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997239493480328</guid>
-      <pubDate>Thu, 24 Sep 2026 12:57:59 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_597c6a61615f4ee9973bc66f7e6ca40a@46958@ai_oswg761092oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;借助华为冲击高端遇阻。</description>
-    </item>
-    <item>
-      <title>大厂的AI战火，攻入硬件</title>
-      <link>https://36kr.com/p/3997256894977664</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997256894977664</guid>
-      <pubDate>Thu, 24 Sep 2026 12:57:23 +0000</pubDate>
-      <author>听筒Tech</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_5ecc9e4e30fa4d2583e601d5fb582777@46958@ai_oswg676870oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;从“卖设备”到“抢控制权”。</description>
-    </item>
-    <item>
-      <title>宇树退烧之后，这家机器人企业花8亿买了一家装修公司</title>
-      <link>https://36kr.com/p/3997354896969603</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997354896969603</guid>
-      <pubDate>Thu, 24 Sep 2026 12:54:34 +0000</pubDate>
-      <author>凤凰网科技</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_a2e3de4276854ee9ae00c2f6ed8f785d@46958@ai_oswg749669oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;IPO 这扇门关小后，机器人公司找到了另一条路</description>
-    </item>
-    <item>
-      <title>三个印度人如何用AI建起一座4亿美元内容工厂</title>
-      <link>https://36kr.com/p/3997184622186372</link>
-      <guid isPermaLink="true">https://36kr.com/p/3997184622186372</guid>
-      <pubDate>Thu, 24 Sep 2026 12:48:35 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260924/v2_ace77ebb788c46649c5b6d83e27b7a98@000000@ai_oswg1033792oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;印度音频平台Pocket FM靠AI+UGC内容盈利，押注UGC未来</description>
     </item>
   </channel>
 </rss>
