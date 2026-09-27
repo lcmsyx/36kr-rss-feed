@@ -5,7 +5,7 @@
     <link>https://36kr.com/hot-list/catalog</link>
     <description>36氪 - 热门榜（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 27 Sep 2026 14:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:40:27 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
     <item>
       <title>腾讯悄悄做了个“中国版Muse”</title>
@@ -152,20 +152,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_004419a77c304e938cc48837fd860816@000000@ai_oswg940881oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>三七SLG黑马破1.7亿，莉莉丝新作大涨42%，腾讯新游冲上Top2</title>
-      <link>https://36kr.com/p/4000330198192256</link>
-      <guid isPermaLink="true">https://36kr.com/p/4000330198192256</guid>
-      <pubDate>Sun, 27 Sep 2026 00:31:26 +0000</pubDate>
-      <author>游戏那点事</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260926/v2_1efaf152d4314101b6dfa3de62b818b1@000000@ai_oswg1240526oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>苹果或重返服务器，互联市场开始“群雄逐鹿”</title>
       <link>https://36kr.com/p/4001085325692807</link>
       <guid isPermaLink="true">https://36kr.com/p/4001085325692807</guid>
       <pubDate>Sun, 27 Sep 2026 06:04:57 +0000</pubDate>
       <author>半导体产业纵横</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260927/v2_c7915b796e0949b1b1cad6e37a9fcc3a@000000@ai_oswg924705oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>三七SLG黑马破1.7亿，莉莉丝新作大涨42%，腾讯新游冲上Top2</title>
+      <link>https://36kr.com/p/4000330198192256</link>
+      <guid isPermaLink="true">https://36kr.com/p/4000330198192256</guid>
+      <pubDate>Sun, 27 Sep 2026 00:31:26 +0000</pubDate>
+      <author>游戏那点事</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260926/v2_1efaf152d4314101b6dfa3de62b818b1@000000@ai_oswg1240526oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
