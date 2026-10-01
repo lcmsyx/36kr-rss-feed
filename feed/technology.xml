@@ -5,8 +5,32 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:36:03 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>突发！苹果全新产品线曝光，Siri AI 进家门</title>
+      <link>https://36kr.com/p/4006033272131714</link>
+      <guid isPermaLink="true">https://36kr.com/p/4006033272131714</guid>
+      <pubDate>Thu, 01 Oct 2026 02:10:26 +0000</pubDate>
+      <author>爱范儿</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_23d9defa98e84948b44662af597f5b3f@000000@ai_oswg569913oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;致敬 2002，面向 2030</description>
+    </item>
+    <item>
+      <title>谷歌反击！Gemini 4 Argon性能比肩Astra，成本仅60%</title>
+      <link>https://36kr.com/p/4006662298865801</link>
+      <guid isPermaLink="true">https://36kr.com/p/4006662298865801</guid>
+      <pubDate>Thu, 01 Oct 2026 02:08:06 +0000</pubDate>
+      <author>智东西</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261001/v2_ca2d9bc52ea04afb98d3be4fdd329889@000000@ai_oswg655782oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;输出上限达100万Token。</description>
+    </item>
+    <item>
+      <title>刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token</title>
+      <link>https://36kr.com/p/4006503753830529</link>
+      <guid isPermaLink="true">https://36kr.com/p/4006503753830529</guid>
+      <pubDate>Thu, 01 Oct 2026 01:00:22 +0000</pubDate>
+      <author>机器之心</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261001/v2_2adb3ca60f834c38bbdd5a0467ec0f84@000000@ai_oswg961362oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;输出Token上限从此前的6.4万提升至100万。</description>
+    </item>
     <item>
       <title>网盘成为AI圈新宠，字节跳动也做了ADrive</title>
       <link>https://36kr.com/p/4005775428898944</link>
@@ -222,30 +246,6 @@
       <pubDate>Wed, 30 Sep 2026 08:18:48 +0000</pubDate>
       <author>CSDN</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_68f4d829981b44bc9e46af4f1e150586@5888275@ai_oswg845172oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;“你说得对，我很抱歉，那本不应该发生。”</description>
-    </item>
-    <item>
-      <title>腾讯全军出击，一口气做了三个Muse</title>
-      <link>https://36kr.com/p/4005512440156039</link>
-      <guid isPermaLink="true">https://36kr.com/p/4005512440156039</guid>
-      <pubDate>Wed, 30 Sep 2026 08:11:50 +0000</pubDate>
-      <author>人人都是产品经理</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_cdd145bf5a884471affe7a8dacf85f33@5888275@ai_oswg868709oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;腾讯、阿里、字节集体冲进 Personal Agent</description>
-    </item>
-    <item>
-      <title>眼镜这么轻，为何压得苹果抬不起头？</title>
-      <link>https://36kr.com/p/4005501884600450</link>
-      <guid isPermaLink="true">https://36kr.com/p/4005501884600450</guid>
-      <pubDate>Wed, 30 Sep 2026 08:11:00 +0000</pubDate>
-      <author>爱范儿</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_2bd4bb945cf9443bbbc9215c91b7aee8@5888275@ai_oswg816729oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;视觉计算设备的下一步，是学会成为一副眼镜</description>
-    </item>
-    <item>
-      <title>俄罗斯宣布造出130nm光刻机，绕过ASML，这是另起炉灶走新路</title>
-      <link>https://36kr.com/p/4005495880732548</link>
-      <guid isPermaLink="true">https://36kr.com/p/4005495880732548</guid>
-      <pubDate>Wed, 30 Sep 2026 07:38:32 +0000</pubDate>
-      <author>王新喜</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_7cc5045b9d354a1dacc1dc0750d3fb19@5888275@ai_oswg838516oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;这是另起炉灶走新路</description>
     </item>
   </channel>
 </rss>
