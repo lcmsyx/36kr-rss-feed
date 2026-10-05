@@ -5,8 +5,24 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:52:08 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>Rabbit 创始人吕骋：人不该为 Agent 改变思考方式</title>
+      <link>https://36kr.com/p/4012726523957380</link>
+      <guid isPermaLink="true">https://36kr.com/p/4012726523957380</guid>
+      <pubDate>Mon, 05 Oct 2026 08:36:43 +0000</pubDate>
+      <author>李炤锋</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_737a0b23e0df41c4a13d9d7d9c9bb5a7@6252890@ai_oswg901629oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;推出 Agent 操作系统 OS3，想争取 Agent 定义权</description>
+    </item>
+    <item>
+      <title>刚刚，Tibo承诺「连续28天发布或重置」，OpenAI遭遇信任危机</title>
+      <link>https://36kr.com/p/4012179282874240</link>
+      <guid isPermaLink="true">https://36kr.com/p/4012179282874240</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0000</pubDate>
+      <author>机器之心</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_15d1221e5203413c8b0e14a868f67472@000000@ai_oswg607312oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;今天重置还是发布，这是一个问题。</description>
+    </item>
     <item>
       <title>马斯克跟AI分手？SpaceXAI又改名了</title>
       <link>https://36kr.com/p/4011570373415044</link>
@@ -230,22 +246,6 @@
       <pubDate>Wed, 30 Sep 2026 13:00:18 +0000</pubDate>
       <author>东针商略</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_c80913c0376c407da55cdddb1f77fba9@5888275@ai_oswg762782oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI繁荣存财务泡沫，风险已转嫁至金融体系</description>
-    </item>
-    <item>
-      <title>AI原生的数据治理：换地基的时候到了</title>
-      <link>https://36kr.com/p/4005800454246534</link>
-      <guid isPermaLink="true">https://36kr.com/p/4005800454246534</guid>
-      <pubDate>Wed, 30 Sep 2026 12:58:17 +0000</pubDate>
-      <author>王建峰</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_c80e7dc6325b41f88d4550745e13eb68@5888275@ai_oswg898566oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;60%的AI项目死于数据未就绪。治理做了，但AI读不懂。</description>
-    </item>
-    <item>
-      <title>安徽人在美国卖桑拿房，年入8.58亿</title>
-      <link>https://36kr.com/p/4005821190131591</link>
-      <guid isPermaLink="true">https://36kr.com/p/4005821190131591</guid>
-      <pubDate>Wed, 30 Sep 2026 12:57:50 +0000</pubDate>
-      <author>品牌工厂</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_36d1b26d125d475bbeffd5d1c7718e63@5888275@ai_oswg817015oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;在TikTok上，#Sauna标签的累计浏览量已经突破16亿次。</description>
     </item>
   </channel>
 </rss>
