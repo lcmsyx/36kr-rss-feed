@@ -5,16 +5,8 @@
     <link>https://36kr.com/hot-list/catalog</link>
     <description>36氪 - 热门榜（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:57:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:00:00 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
-    <item>
-      <title>当你意识到这个社会99%的人都很蠢时，你的人生将彻底颠覆</title>
-      <link>https://36kr.com/p/3973349446201604</link>
-      <guid isPermaLink="true">https://36kr.com/p/3973349446201604</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:14 +0000</pubDate>
-      <author>神译局</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260907/v2_cef56c7fde8b4eb58f92912348469a96@1694@ai_oswg783338oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>国庆不住酒店的年轻人，又捧火一个2000亿新风口</title>
       <link>https://36kr.com/p/4011235792441479</link>
@@ -22,6 +14,14 @@
       <pubDate>Mon, 05 Oct 2026 00:30:18 +0000</pubDate>
       <author>金错刀</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261004/v2_045a5429084f4a64a1359846cf7213d4@000000@ai_oswg725002oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>当你意识到这个社会99%的人都很蠢时，你的人生将彻底颠覆</title>
+      <link>https://36kr.com/p/3973349446201604</link>
+      <guid isPermaLink="true">https://36kr.com/p/3973349446201604</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:14 +0000</pubDate>
+      <author>神译局</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260907/v2_cef56c7fde8b4eb58f92912348469a96@1694@ai_oswg783338oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>马斯克跟AI分手？SpaceXAI又改名了</title>
@@ -56,20 +56,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_f8d93aa280e8435ab3fe3d0fa4ddc6ee@000000@ai_oswg997022oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“返乡连吃3天席，我发现婚礼卷成「短剧」了”</title>
-      <link>https://36kr.com/p/4012283978240130</link>
-      <guid isPermaLink="true">https://36kr.com/p/4012283978240130</guid>
-      <pubDate>Mon, 05 Oct 2026 04:30:00 +0000</pubDate>
-      <author>凤凰周刊</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_15a305b0b1f948bebc13fc4522011bc9@000000@ai_oswg667451oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>刚刚，Tibo承诺「连续28天发布或重置」，OpenAI遭遇信任危机</title>
       <link>https://36kr.com/p/4012179282874240</link>
       <guid isPermaLink="true">https://36kr.com/p/4012179282874240</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 +0000</pubDate>
       <author>机器之心</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_15d1221e5203413c8b0e14a868f67472@000000@ai_oswg607312oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“返乡连吃3天席，我发现婚礼卷成「短剧」了”</title>
+      <link>https://36kr.com/p/4012283978240130</link>
+      <guid isPermaLink="true">https://36kr.com/p/4012283978240130</guid>
+      <pubDate>Mon, 05 Oct 2026 04:30:00 +0000</pubDate>
+      <author>凤凰周刊</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_15a305b0b1f948bebc13fc4522011bc9@000000@ai_oswg667451oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rabbit 创始人吕骋：人不该为 Agent 改变思考方式</title>
@@ -96,6 +96,14 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_b8445191de82422390c97fc302d67fd6@000000@ai_oswg799673oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>BI 真正的生意才刚开始</title>
+      <link>https://36kr.com/p/4012340504055680</link>
+      <guid isPermaLink="true">https://36kr.com/p/4012340504055680</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <author>王智远</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_c60b71f46d1d4c3399a1cf17a96577b9@000000@ai_oswg677450oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>逃离工位的年轻人，花上万元进山</title>
       <link>https://36kr.com/p/4012590733807490</link>
       <guid isPermaLink="true">https://36kr.com/p/4012590733807490</guid>
@@ -110,14 +118,6 @@
       <pubDate>Mon, 05 Oct 2026 03:00:00 +0000</pubDate>
       <author>三易生活</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261004/v2_724f869cafb543a792fe92c2095f3b7d@000000@ai_oswg656647oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>BI 真正的生意才刚开始</title>
-      <link>https://36kr.com/p/4012340504055680</link>
-      <guid isPermaLink="true">https://36kr.com/p/4012340504055680</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-      <author>王智远</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_c60b71f46d1d4c3399a1cf17a96577b9@000000@ai_oswg677450oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>“大富翁”混搭Roguelike，新品月流水过千万</title>
@@ -136,20 +136,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_6274f1ae81754d2eb71801e8859df0aa@5460397_oswg1049403oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>机房紧缺，资本反而开始“挑剔”数据中心？</title>
-      <link>https://36kr.com/p/4012394459451264</link>
-      <guid isPermaLink="true">https://36kr.com/p/4012394459451264</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
-      <author>半导体产业纵横</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_57efb144961749bb805a75ad618fea60@000000@ai_oswg754200oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>国庆黄金周车市实探，多个品牌推限时购车权益</title>
       <link>https://36kr.com/p/4012590855737479</link>
       <guid isPermaLink="true">https://36kr.com/p/4012590855737479</guid>
       <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
       <author>时代财经</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_c33f3a4b6d5246c0a36a3be6b0450d4b@000000@ai_oswg757552oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>机房紧缺，资本反而开始“挑剔”数据中心？</title>
+      <link>https://36kr.com/p/4012394459451264</link>
+      <guid isPermaLink="true">https://36kr.com/p/4012394459451264</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+      <author>半导体产业纵横</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261005/v2_57efb144961749bb805a75ad618fea60@000000@ai_oswg754200oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
