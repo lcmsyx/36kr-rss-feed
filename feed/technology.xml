@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Oct 2026 16:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:42:53 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>马斯克跟AI分手？SpaceXAI又改名了</title>
+      <link>https://36kr.com/p/4011570373415044</link>
+      <guid isPermaLink="true">https://36kr.com/p/4011570373415044</guid>
+      <pubDate>Mon, 05 Oct 2026 01:15:50 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261004/v2_480f113be783446fa7f9205718d0fe0c@000000@ai_oswg609866oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;马斯克：我太想进步了。</description>
+    </item>
     <item>
       <title>Claude满分、GPT 99分，何恺明团队把AGI考试打穿了</title>
       <link>https://36kr.com/p/4011070893871238</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 30 Sep 2026 12:57:50 +0000</pubDate>
       <author>品牌工厂</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_36d1b26d125d475bbeffd5d1c7718e63@5888275@ai_oswg817015oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;在TikTok上，#Sauna标签的累计浏览量已经突破16亿次。</description>
-    </item>
-    <item>
-      <title>估值超千亿的智能戒指，IPO突然叫停</title>
-      <link>https://36kr.com/p/4005841732456578</link>
-      <guid isPermaLink="true">https://36kr.com/p/4005841732456578</guid>
-      <pubDate>Wed, 30 Sep 2026 12:57:30 +0000</pubDate>
-      <author>直通IPO</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20260930/v2_b05b04665db2497bb21c5f48a6429c93@5888275@ai_oswg848493oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;按此前公布的发行区间上限计算，Oura的募资规模最高可达22亿美元。</description>
     </item>
   </channel>
 </rss>
