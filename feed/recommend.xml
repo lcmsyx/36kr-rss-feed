@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_recommend</link>
     <description>36氪 - 推荐（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Oct 2026 19:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:43:04 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>中国公司全球化周报｜比特幻境完成数亿元天使轮融资 / 智元机器人上半年出货量超8600台</title>
+      <link>https://36kr.com/p/4020261029826440</link>
+      <guid isPermaLink="true">https://36kr.com/p/4020261029826440</guid>
+      <pubDate>Sun, 11 Oct 2026 01:02:31 +0000</pubDate>
+      <author>36氪出海</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261011/v2_d61a0fd0f9dd4844858ca9b5e552820a@11918142_oswg387488oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;聚焦中国公司全球化大事，36氪出海致力于消除信息差，让读者将本周最值得关注的大事件尽收眼底</description>
+    </item>
     <item>
       <title>被字节开除的实习生，融资2亿：挑战李飞飞</title>
       <link>https://36kr.com/p/4020002533003400</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 10 Oct 2026 00:00:16 +0000</pubDate>
       <author>徐蔡钰</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261009/v2_bab9b7533e5f48aabc1fdf62801a3da3@5809365_oswg114042oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;强制性国标，或将迎来修订</description>
-    </item>
-    <item>
-      <title>OpenAI带头“扫货”：195起AI并购，最大一笔110亿</title>
-      <link>https://36kr.com/p/4018587694420103</link>
-      <guid isPermaLink="true">https://36kr.com/p/4018587694420103</guid>
-      <pubDate>Fri, 09 Oct 2026 13:40:05 +0000</pubDate>
-      <author>智东西</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261009/v2_593a0d71a8164c34800cd58d971eda73@46958@ai_oswg680115oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;全球195起AI并购，钱花哪了？</description>
     </item>
   </channel>
 </rss>
