@@ -5,8 +5,24 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:22:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:24:01 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题</title>
+      <link>https://36kr.com/p/4039749830120583</link>
+      <guid isPermaLink="true">https://36kr.com/p/4039749830120583</guid>
+      <pubDate>Sat, 24 Oct 2026 10:50:23 +0000</pubDate>
+      <author>咏仪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_b941c36ccdb54efd8a2919827d96658d@000000_oswg33717oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;“创业公司无论如何是有仗可打的。”</description>
+    </item>
+    <item>
+      <title>独家｜字节AI应用再整合：小云雀并入即梦</title>
+      <link>https://36kr.com/p/4039677577122946</link>
+      <guid isPermaLink="true">https://36kr.com/p/4039677577122946</guid>
+      <pubDate>Sat, 24 Oct 2026 09:38:23 +0000</pubDate>
+      <author>咏仪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_67e894f7584d49b6ae0bdc09b82a3d4a@000000_oswg35163oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;模型能力快速提升，市场对应用的评估逻辑也随之改变。</description>
+    </item>
     <item>
       <title>刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一</title>
       <link>https://36kr.com/p/4039469378163840</link>
@@ -230,22 +246,6 @@
       <pubDate>Fri, 23 Oct 2026 12:50:36 +0000</pubDate>
       <author>半导体产业纵横</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261023/v2_c357cfb46a8943fdab1dab8e68838778@000000@ai_oswg924515oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;千元机退场，万元机撑起行业大盘。</description>
-    </item>
-    <item>
-      <title>腾讯又推新产品，大厂为何扎堆押注 AI 教育？</title>
-      <link>https://36kr.com/p/4038398963733378</link>
-      <guid isPermaLink="true">https://36kr.com/p/4038398963733378</guid>
-      <pubDate>Fri, 23 Oct 2026 12:44:01 +0000</pubDate>
-      <author>多鲸</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261023/v2_02d54e9bc69a499093bacbe349c0caf3@000000@ai_oswg885684oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;不满足于拍题答疑，大厂开始用 AI「上课」了。</description>
-    </item>
-    <item>
-      <title>MiniMax重磅模型开源，华为昇腾将接入，3天处理超100万亿Token</title>
-      <link>https://36kr.com/p/4038403667760257</link>
-      <guid isPermaLink="true">https://36kr.com/p/4038403667760257</guid>
-      <pubDate>Fri, 23 Oct 2026 12:40:14 +0000</pubDate>
-      <author>智东西</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261023/v2_cd6f6068066d48ea939e94426c3f92f6@000000@ai_oswg878525oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;部分前端效果媲美Opus 5.5。</description>
     </item>
   </channel>
 </rss>
