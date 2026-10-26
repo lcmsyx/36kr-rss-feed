@@ -5,7 +5,7 @@
     <link>https://36kr.com/hot-list/catalog</link>
     <description>36氪 - 热门榜（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:57:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:59:04 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
     <item>
       <title>8点1氪丨金价连日大跌，深圳水贝被挤爆；开售仅两天，苹果iPhone Duo破发；德明利：前三季度净利润87.46亿元 同比增长32399.91%</title>
@@ -32,6 +32,14 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261015/v2_d95cae58c1684b18852111d3a303b084@000000_oswg39288oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI“招安”孙宇晨</title>
+      <link>https://36kr.com/p/4042458701910919</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042458701910919</guid>
+      <pubDate>Mon, 26 Oct 2026 10:19:46 +0000</pubDate>
+      <author>字母榜</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_bb8c2f786ee04ad18043b273ac0ce199@6100851_oswg530597oswg1053oswg495_img_webp?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>WorkBuddy断层第一：腾讯拿下办公AI，百度掉队</title>
       <link>https://36kr.com/p/4040877333223043</link>
       <guid isPermaLink="true">https://36kr.com/p/4040877333223043</guid>
@@ -46,14 +54,6 @@
       <pubDate>Mon, 26 Oct 2026 05:52:08 +0000</pubDate>
       <author>爱范儿</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_bcea8201d0414d2c99e2b4953d185971@000000@ai_oswg642536oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI“招安”孙宇晨</title>
-      <link>https://36kr.com/p/4042458701910919</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042458701910919</guid>
-      <pubDate>Mon, 26 Oct 2026 10:19:46 +0000</pubDate>
-      <author>字母榜</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_bb8c2f786ee04ad18043b273ac0ce199@6100851_oswg530597oswg1053oswg495_img_webp?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>刚刚，Reddit最大开源社区全面封杀AI，Linux和Python被除名</title>
@@ -88,20 +88,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_940f4704e08c4a1e990e5622cbd06bab@000000@ai_oswg1065445oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI教科书全错，底层公式惊天Bug曝光，Gemini率先自我修复</title>
+      <link>https://36kr.com/p/4042646038139777</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042646038139777</guid>
+      <pubDate>Mon, 26 Oct 2026 12:56:15 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_ee8b5c8420d54165b0bb4a91b93a1aba@5888275@ai_oswg769143oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>别学编程了，Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴</title>
+      <link>https://36kr.com/p/4042456776905862</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042456776905862</guid>
+      <pubDate>Mon, 26 Oct 2026 11:43:59 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_3dd95f9c26fa4f99a5b962936d51d16d@5888275@ai_oswg947055oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>堪比Transformer奠基论文？这篇研究让AI圈吵起来了</title>
       <link>https://36kr.com/p/4042180465300614</link>
       <guid isPermaLink="true">https://36kr.com/p/4042180465300614</guid>
       <pubDate>Mon, 26 Oct 2026 04:48:18 +0000</pubDate>
       <author>爱范儿</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_529bdf1cce5843a4bb80df8d5f195ba6@1743780481@ai_oswg844246oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>华为入局换电，蔚来可太开心了</title>
-      <link>https://36kr.com/p/4040770850837381</link>
-      <guid isPermaLink="true">https://36kr.com/p/4040770850837381</guid>
-      <pubDate>Mon, 26 Oct 2026 01:10:18 +0000</pubDate>
-      <author>汽车公社</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_ed1f7f2ff6b340a2965a7a9622f9da3a@000000@ai_oswg748079oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI新模型曝光，GPT-6.1 Terra把旗舰反超了？</title>
@@ -112,12 +120,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_3ffcedb07b344d63b89a12fe70e48723@000000@ai_oswg628974oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>华为入局换电，蔚来可太开心了</title>
+      <link>https://36kr.com/p/4040770850837381</link>
+      <guid isPermaLink="true">https://36kr.com/p/4040770850837381</guid>
+      <pubDate>Mon, 26 Oct 2026 01:10:18 +0000</pubDate>
+      <author>汽车公社</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_ed1f7f2ff6b340a2965a7a9622f9da3a@000000@ai_oswg748079oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>停训11天后重启，OpenAI最强模型断网开练</title>
       <link>https://36kr.com/p/4041213296612488</link>
       <guid isPermaLink="true">https://36kr.com/p/4041213296612488</guid>
       <pubDate>Sun, 25 Oct 2026 23:49:27 +0000</pubDate>
       <author>新智元</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_da83f61227b94344b2029dbd15fb6c14@000000@ai_oswg771895oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一天赚1.76亿，46岁数学博士用AI炒股，成千亿富豪</title>
+      <link>https://36kr.com/p/4042190955680903</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042190955680903</guid>
+      <pubDate>Mon, 26 Oct 2026 08:31:41 +0000</pubDate>
+      <author>铅笔道</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_80e71a001e7347d4a1f75bc48b2af091@5888275@ai_oswg874112oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>意外，79%企业GPU利用率竟不足一半</title>
@@ -144,28 +168,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_f34d79615572466fac53723ca1b61414@000000@ai_oswg1006328oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>别学编程了，Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴</title>
-      <link>https://36kr.com/p/4042456776905862</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042456776905862</guid>
-      <pubDate>Mon, 26 Oct 2026 11:43:59 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_3dd95f9c26fa4f99a5b962936d51d16d@5888275@ai_oswg947055oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>地铁里的 AI 伪人广告，正在集体霸凌人类</title>
       <link>https://36kr.com/p/4041125205152901</link>
       <guid isPermaLink="true">https://36kr.com/p/4041125205152901</guid>
       <pubDate>Sun, 25 Oct 2026 23:58:52 +0000</pubDate>
       <author>爱范儿</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_e59d9221195b4d50a7ae6abaf251bd66@000000@ai_oswg892103oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>贾乃亮一天卖了5.7亿，明星带货已经卷到这一步了</title>
-      <link>https://36kr.com/p/4040566237500290</link>
-      <guid isPermaLink="true">https://36kr.com/p/4040566237500290</guid>
-      <pubDate>Mon, 26 Oct 2026 00:44:31 +0000</pubDate>
-      <author>新周刊</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_7187778242c74743b718d3a97537d2f4@000000@ai_oswg1028948oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>国内互联网能与字节一战的，只剩“腾讯”了</title>
@@ -176,44 +184,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_961d98ce2de34f99912dce247818d2b2@1743780481@ai_oswg892747oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI教科书全错，底层公式惊天Bug曝光，Gemini率先自我修复</title>
-      <link>https://36kr.com/p/4042646038139777</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042646038139777</guid>
-      <pubDate>Mon, 26 Oct 2026 12:56:15 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_ee8b5c8420d54165b0bb4a91b93a1aba@5888275@ai_oswg769143oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一碗鳗鱼饭背后的冰与火</title>
-      <link>https://36kr.com/p/4041947493733511</link>
-      <guid isPermaLink="true">https://36kr.com/p/4041947493733511</guid>
-      <pubDate>Mon, 26 Oct 2026 01:25:42 +0000</pubDate>
-      <author>斑马消费</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_05e8019bf912469eb0332d39ff992cd4@1743780481@ai_oswg804946oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code桌面之父官宣离职，从高中辍学逆袭AI之巅</title>
-      <link>https://36kr.com/p/4042392255173504</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042392255173504</guid>
-      <pubDate>Mon, 26 Oct 2026 08:36:38 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_ee63f7eefbcb4635b8025ded6c7d155b@5888275@ai_oswg838144oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一天赚1.76亿，46岁数学博士用AI炒股，成千亿富豪</title>
-      <link>https://36kr.com/p/4042190955680903</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042190955680903</guid>
-      <pubDate>Mon, 26 Oct 2026 08:31:41 +0000</pubDate>
-      <author>铅笔道</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_80e71a001e7347d4a1f75bc48b2af091@5888275@ai_oswg874112oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>从中报逆转到双 11 狂欢，乳业拐点将至</title>
-      <link>https://36kr.com/p/4041418958034056</link>
-      <guid isPermaLink="true">https://36kr.com/p/4041418958034056</guid>
-      <pubDate>Mon, 26 Oct 2026 03:39:12 +0000</pubDate>
-      <author>摩根商研所</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_8ad78d68d88840b5a279acd09169f03f@000000@ai_oswg510295oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>贾乃亮一天卖了5.7亿，明星带货已经卷到这一步了</title>
+      <link>https://36kr.com/p/4040566237500290</link>
+      <guid isPermaLink="true">https://36kr.com/p/4040566237500290</guid>
+      <pubDate>Mon, 26 Oct 2026 00:44:31 +0000</pubDate>
+      <author>新周刊</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_7187778242c74743b718d3a97537d2f4@000000@ai_oswg1028948oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>赔麻了？首部国产 AI 院线电影上映</title>
@@ -224,12 +200,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_e8135623a7134094a5fc3b123e655b4b@000000@ai_oswg927399oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>iPhone Duo屏幕裂纹事故遭集中投诉，李楠说到点上：以前苹果工程师吃住在中国供应链上，现在生疏了</title>
-      <link>https://36kr.com/p/4040749296063365</link>
-      <guid isPermaLink="true">https://36kr.com/p/4040749296063365</guid>
-      <pubDate>Mon, 26 Oct 2026 00:43:43 +0000</pubDate>
-      <author>王新喜</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_fc2994069ee44d62a98a86b9bece3fb9@000000@ai_oswg960033oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>Claude Code桌面之父官宣离职，从高中辍学逆袭AI之巅</title>
+      <link>https://36kr.com/p/4042392255173504</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042392255173504</guid>
+      <pubDate>Mon, 26 Oct 2026 08:36:38 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_ee63f7eefbcb4635b8025ded6c7d155b@5888275@ai_oswg838144oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一碗鳗鱼饭背后的冰与火</title>
+      <link>https://36kr.com/p/4041947493733511</link>
+      <guid isPermaLink="true">https://36kr.com/p/4041947493733511</guid>
+      <pubDate>Mon, 26 Oct 2026 01:25:42 +0000</pubDate>
+      <author>斑马消费</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_05e8019bf912469eb0332d39ff992cd4@1743780481@ai_oswg804946oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT攻克26年猜想，千位数学家宣战AI，数学界彻底撕裂了</title>
+      <link>https://36kr.com/p/4042643106075778</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042643106075778</guid>
+      <pubDate>Mon, 26 Oct 2026 12:45:12 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_82e8474db65442ac98a0707e0f9d8ba5@5888275@ai_oswg876007oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>英伟达GPU隐藏算力被开源解锁，不改官方驱动，RTX 4090吞吐翻倍</title>
@@ -240,12 +232,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_716326d44077462a868f4d05c27747cb@000000@ai_oswg1073793oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A社联创演讲：AI奇点已来</title>
-      <link>https://36kr.com/p/4040806415209600</link>
-      <guid isPermaLink="true">https://36kr.com/p/4040806415209600</guid>
-      <pubDate>Sun, 25 Oct 2026 23:44:53 +0000</pubDate>
-      <author>量子位</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_4f19878327fd43b0a35680ecd80b6713@1743780481@ai_oswg781056oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>从中报逆转到双 11 狂欢，乳业拐点将至</title>
+      <link>https://36kr.com/p/4041418958034056</link>
+      <guid isPermaLink="true">https://36kr.com/p/4041418958034056</guid>
+      <pubDate>Mon, 26 Oct 2026 03:39:12 +0000</pubDate>
+      <author>摩根商研所</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_8ad78d68d88840b5a279acd09169f03f@000000@ai_oswg510295oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>马斯克：人类在ASI面前是黑猩猩，未来所有钱和工作都将清零</title>
@@ -256,12 +248,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_69e2fb63cfb14803a0722642ded58418@5888275@ai_oswg908391oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>一天换一个身份，年轻人的“角色体验”生意火了</title>
-      <link>https://36kr.com/p/4042136768665472</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042136768665472</guid>
-      <pubDate>Mon, 26 Oct 2026 04:53:42 +0000</pubDate>
-      <author>惊蛰研究所</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_d7d8828d2e734ae2a9d0ec70b931f5cd@1743780481@ai_oswg993496oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>蓝思科技利润腰斩，折叠屏能救场吗？</title>
+      <link>https://36kr.com/p/4042588460930953</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042588460930953</guid>
+      <pubDate>Mon, 26 Oct 2026 12:38:05 +0000</pubDate>
+      <author>ZAKER财经</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_137e3446ce7344278e45b0e317baa63d@5888275@ai_oswg843108oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iPhone Duo屏幕裂纹事故遭集中投诉，李楠说到点上：以前苹果工程师吃住在中国供应链上，现在生疏了</title>
+      <link>https://36kr.com/p/4040749296063365</link>
+      <guid isPermaLink="true">https://36kr.com/p/4040749296063365</guid>
+      <pubDate>Mon, 26 Oct 2026 00:43:43 +0000</pubDate>
+      <author>王新喜</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_fc2994069ee44d62a98a86b9bece3fb9@000000@ai_oswg960033oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A社联创演讲：AI奇点已来</title>
+      <link>https://36kr.com/p/4040806415209600</link>
+      <guid isPermaLink="true">https://36kr.com/p/4040806415209600</guid>
+      <pubDate>Sun, 25 Oct 2026 23:44:53 +0000</pubDate>
+      <author>量子位</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_4f19878327fd43b0a35680ecd80b6713@1743780481@ai_oswg781056oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>人类审稿被AI一波团灭，哈佛派出最强专家，错误率高达3倍</title>
@@ -270,6 +278,14 @@
       <pubDate>Mon, 26 Oct 2026 08:05:22 +0000</pubDate>
       <author>新智元</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_d34baf517d894f28b749bafc2ab57057@5888275@ai_oswg817502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一天换一个身份，年轻人的“角色体验”生意火了</title>
+      <link>https://36kr.com/p/4042136768665472</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042136768665472</guid>
+      <pubDate>Mon, 26 Oct 2026 04:53:42 +0000</pubDate>
+      <author>惊蛰研究所</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_d7d8828d2e734ae2a9d0ec70b931f5cd@1743780481@ai_oswg993496oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>常青藤名校光环褪色，华尔街失宠，学霸扎堆硅谷疯狂搞AI</title>
@@ -288,36 +304,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_81e969a925d14ff7a923d5504a3d1c8e@000000@ai_oswg650176oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>比GPT-6 Luna快8倍，扩散LLM跑分也反超了</title>
+      <link>https://36kr.com/p/4039680498717828</link>
+      <guid isPermaLink="true">https://36kr.com/p/4039680498717828</guid>
+      <pubDate>Mon, 26 Oct 2026 05:10:15 +0000</pubDate>
+      <author>机器之心</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_f45b56b871104439901fac1a9d33fde3@000000@ai_oswg761486oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>马斯克：在AI面前，人类就是黑猩猩</title>
       <link>https://36kr.com/p/4041091487028354</link>
       <guid isPermaLink="true">https://36kr.com/p/4041091487028354</guid>
       <pubDate>Mon, 26 Oct 2026 00:54:42 +0000</pubDate>
       <author>硬核看板</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_af46b21673e34f06811cad737b97e030@1743780481@ai_oswg916046oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>物理学家破防，500页博士论文手算1年，Opus 5.5只用10小时</title>
-      <link>https://36kr.com/p/4040786783458436</link>
-      <guid isPermaLink="true">https://36kr.com/p/4040786783458436</guid>
-      <pubDate>Sun, 25 Oct 2026 23:44:35 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_67525fff2063483ea6bfba2230f82760@1743780481@ai_oswg1045614oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>金价跌回4000，机构逃跑，央行吃饱，你相信谁？</title>
-      <link>https://36kr.com/p/4041364621611907</link>
-      <guid isPermaLink="true">https://36kr.com/p/4041364621611907</guid>
-      <pubDate>Mon, 26 Oct 2026 00:29:18 +0000</pubDate>
-      <author>人神共奋</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_618d9b6f865241e4b622e976ce44cd78@000000@ai_oswg637372oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我们完了，奥特曼曝数学家5天心路反转，陶哲轩：英雄时代退场</title>
-      <link>https://36kr.com/p/4039168447665285</link>
-      <guid isPermaLink="true">https://36kr.com/p/4039168447665285</guid>
-      <pubDate>Mon, 26 Oct 2026 03:13:27 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_1cd21ce48c44425f8a35097603f426e7@000000@ai_oswg759288oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>最担心的事发生了？AI教父直言AI已有自我意识，别把它逼成了敌人</title>
@@ -328,12 +328,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_31d62a935940475bbfb9d14096a88027@1743780481@ai_oswg941582oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>比GPT-6 Luna快8倍，扩散LLM跑分也反超了</title>
-      <link>https://36kr.com/p/4039680498717828</link>
-      <guid isPermaLink="true">https://36kr.com/p/4039680498717828</guid>
-      <pubDate>Mon, 26 Oct 2026 05:10:15 +0000</pubDate>
-      <author>机器之心</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_f45b56b871104439901fac1a9d33fde3@000000@ai_oswg761486oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>大水取代了大蓝桶，中国的“大家庭”时代结束了</title>
+      <link>https://36kr.com/p/4042626208011144</link>
+      <guid isPermaLink="true">https://36kr.com/p/4042626208011144</guid>
+      <pubDate>Mon, 26 Oct 2026 12:25:26 +0000</pubDate>
+      <author>知危</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_908051ee08d74e7faf09e349db757a23@5888275@ai_oswg788859oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>物理学家破防，500页博士论文手算1年，Opus 5.5只用10小时</title>
+      <link>https://36kr.com/p/4040786783458436</link>
+      <guid isPermaLink="true">https://36kr.com/p/4040786783458436</guid>
+      <pubDate>Sun, 25 Oct 2026 23:44:35 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_67525fff2063483ea6bfba2230f82760@1743780481@ai_oswg1045614oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我们完了，奥特曼曝数学家5天心路反转，陶哲轩：英雄时代退场</title>
+      <link>https://36kr.com/p/4039168447665285</link>
+      <guid isPermaLink="true">https://36kr.com/p/4039168447665285</guid>
+      <pubDate>Mon, 26 Oct 2026 03:13:27 +0000</pubDate>
+      <author>新智元</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261024/v2_1cd21ce48c44425f8a35097603f426e7@000000@ai_oswg759288oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>海外红果，收割全球？</title>
@@ -342,6 +358,14 @@
       <pubDate>Mon, 26 Oct 2026 02:17:25 +0000</pubDate>
       <author>定焦One</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_947d41e41b0941e1b2c96b1df86355b0@000000@ai_oswg868129oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>金价跌回4000，机构逃跑，央行吃饱，你相信谁？</title>
+      <link>https://36kr.com/p/4041364621611907</link>
+      <guid isPermaLink="true">https://36kr.com/p/4041364621611907</guid>
+      <pubDate>Mon, 26 Oct 2026 00:29:18 +0000</pubDate>
+      <author>人神共奋</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_618d9b6f865241e4b622e976ce44cd78@000000@ai_oswg637372oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>千亿All in，AI回报却为零</title>
@@ -360,6 +384,14 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_c825a0c14e23462ea6c720a349a18275@1743780481@ai_oswg846746oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>拉上英伟达硬刚苹果，微软的高端AI PC赌局</title>
+      <link>https://36kr.com/p/4040520626689666</link>
+      <guid isPermaLink="true">https://36kr.com/p/4040520626689666</guid>
+      <pubDate>Mon, 26 Oct 2026 00:55:02 +0000</pubDate>
+      <author>硅碳变量</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_f71de1ec7160410ba755409fab30b2be@1743780481@ai_oswg964158oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>被批捕，一代芯片巨头，栽在了赌性里</title>
       <link>https://36kr.com/p/4040743235310471</link>
       <guid isPermaLink="true">https://36kr.com/p/4040743235310471</guid>
@@ -374,38 +406,6 @@
       <pubDate>Sun, 25 Oct 2026 23:44:24 +0000</pubDate>
       <author>爱范儿</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_81f554349db34e1188f7d558be4cecc5@000000@ai_oswg833141oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>拉上英伟达硬刚苹果，微软的高端AI PC赌局</title>
-      <link>https://36kr.com/p/4040520626689666</link>
-      <guid isPermaLink="true">https://36kr.com/p/4040520626689666</guid>
-      <pubDate>Mon, 26 Oct 2026 00:55:02 +0000</pubDate>
-      <author>硅碳变量</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_f71de1ec7160410ba755409fab30b2be@1743780481@ai_oswg964158oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>大厂减配员工福利，纷纷进入“纯过日子”时代？</title>
-      <link>https://36kr.com/p/4039368543327878</link>
-      <guid isPermaLink="true">https://36kr.com/p/4039368543327878</guid>
-      <pubDate>Mon, 26 Oct 2026 04:40:30 +0000</pubDate>
-      <author>深观商业</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_b3ef59851355435d9b990c11203e4ab4@1743780481@ai_oswg836591oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>总支出近亿，电视台掀起AI算力采购潮</title>
-      <link>https://36kr.com/p/4041272971105413</link>
-      <guid isPermaLink="true">https://36kr.com/p/4041272971105413</guid>
-      <pubDate>Mon, 26 Oct 2026 00:51:40 +0000</pubDate>
-      <author>娱乐资本论</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261025/v2_fda81236519c484092c8b5e95bdd50d4@000000@ai_oswg748285oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蓝思科技利润腰斩，折叠屏能救场吗？</title>
-      <link>https://36kr.com/p/4042588460930953</link>
-      <guid isPermaLink="true">https://36kr.com/p/4042588460930953</guid>
-      <pubDate>Mon, 26 Oct 2026 12:38:05 +0000</pubDate>
-      <author>ZAKER财经</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261026/v2_137e3446ce7344278e45b0e317baa63d@5888275@ai_oswg843108oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
