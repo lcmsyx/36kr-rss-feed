@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:48:21 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>AI办公的分水岭，已不在模型“聪明度”</title>
+      <link>https://36kr.com/p/4046588209845122</link>
+      <guid isPermaLink="true">https://36kr.com/p/4046588209845122</guid>
+      <pubDate>Thu, 29 Oct 2026 06:49:53 +0000</pubDate>
+      <author>职场Bonus</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261029/v2_b68b441c4dec4b578d390f8c5343e9ac@5509299_oswg498263oswg600oswg400_img_png" /&gt;&lt;/p&gt;“第一，停止向公司提供的AI发送没用的问题。”</description>
+    </item>
     <item>
       <title>增长的下一道难题，单靠速度和规模都解决不了</title>
       <link>https://36kr.com/p/4046201246979206</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 27 Oct 2026 06:37:20 +0000</pubDate>
       <author>未来人类实验室</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261027/v2_f8be4c65280d48578619bd5a78615382@6314151_oswg436606oswg600oswg400_img_png" /&gt;&lt;/p&gt;DeepSeek这座“金字塔尖的殿堂”跟想象中有点不一样</description>
-    </item>
-    <item>
-      <title>企业全民AI热潮下，CIO会不会进“ICU”？</title>
-      <link>https://36kr.com/p/4043308335584388</link>
-      <guid isPermaLink="true">https://36kr.com/p/4043308335584388</guid>
-      <pubDate>Tue, 27 Oct 2026 01:10:23 +0000</pubDate>
-      <author>湘江数评-老杨</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261027/v2_23f92cc4c93e44c7b8d57fbb7056a9d9@000000@ai_oswg1114932oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI时代部分CIO易陷组织ICU，需转型破局</description>
     </item>
   </channel>
 </rss>
