@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:52:13 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>部署态加速，智元要打通物理AI全链路</title>
+      <link>https://36kr.com/p/4047032889800965</link>
+      <guid isPermaLink="true">https://36kr.com/p/4047032889800965</guid>
+      <pubDate>Thu, 29 Oct 2026 14:25:57 +0000</pubDate>
+      <author>邱晓芬</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261029/v2_a7751c13e912442ca712cbf2df826d96@19153231_oswg128774oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;“万台下线，只是制造业的胜利，万台上岗，才是物理AI的胜利”。</description>
+    </item>
     <item>
       <title>阿里云、火山引擎市占率数据把人搞懵了，到底谁才是真第一？</title>
       <link>https://36kr.com/p/4046815194617478</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 29 Oct 2026 10:09:21 +0000</pubDate>
       <author>Tech商业</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261029/v2_05fcd927081d43e48d985ae30403e938@5888275@ai_oswg759513oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;老将离职，暴露百度大模型业务多重深层危机。</description>
-    </item>
-    <item>
-      <title>AI王座，一夜两度易主，神秘模型Obsidian 3泄露</title>
-      <link>https://36kr.com/p/4046769826354050</link>
-      <guid isPermaLink="true">https://36kr.com/p/4046769826354050</guid>
-      <pubDate>Thu, 29 Oct 2026 10:07:55 +0000</pubDate>
-      <author>新智元</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261029/v2_87f07d15bfcd401f97b41fbbd6b7929d@5888275@ai_oswg777516oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;真正的压力来自还没亮牌的对手</description>
     </item>
   </channel>
 </rss>
