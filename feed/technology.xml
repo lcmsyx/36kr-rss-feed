@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:46:49 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>一场比赛，两种收成：多多农研科技大赛这6年</title>
+      <link>https://36kr.com/p/4061122755941249</link>
+      <guid isPermaLink="true">https://36kr.com/p/4061122755941249</guid>
+      <pubDate>Sun, 08 Nov 2026 13:30:55 +0000</pubDate>
+      <author>碧根果</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261108/v2_cace53e008ac4989aa3c4c5eb6e6dca0@39566_oswg97524oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;植物工厂的胜负，不在参数表。</description>
+    </item>
     <item>
       <title>GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了</title>
       <link>https://36kr.com/p/4060707751826311</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 13:16:09 +0000</pubDate>
       <author>半导体产业纵横</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261106/v2_3685fbaef0d148ef96aaf16e3e6b985b@000000@ai_oswg818584oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;存力分配权的博弈愈演愈烈。</description>
-    </item>
-    <item>
-      <title>3D金属打印正在搬上桌面，但安全门槛并没有消失</title>
-      <link>https://36kr.com/p/4058108172309382</link>
-      <guid isPermaLink="true">https://36kr.com/p/4058108172309382</guid>
-      <pubDate>Fri, 06 Nov 2026 13:14:32 +0000</pubDate>
-      <author>Morketing</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261106/v2_9e29e4ae422e4886aff2038a1845a0d9@000000@ai_oswg946675oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;3D金属打印正在搬上桌面，但安全门槛并没有消失</description>
     </item>
   </channel>
 </rss>
