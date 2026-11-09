@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:58:00 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>95后，开始掌管大厂AI了</title>
+      <link>https://36kr.com/p/4062378571453320</link>
+      <guid isPermaLink="true">https://36kr.com/p/4062378571453320</guid>
+      <pubDate>Mon, 09 Nov 2026 11:29:05 +0000</pubDate>
+      <author>人人都是产品经理</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261109/v2_fd46a7053f34442495621939477dde6b@5888275@ai_oswg973024oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;腾讯字节小米开始重用小年轻</description>
+    </item>
     <item>
       <title>AI 越快，组织越要学会制造“摩擦”</title>
       <link>https://36kr.com/p/4061771681698947</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 00:27:43 +0000</pubDate>
       <author>张丽俊Cherry</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261106/v2_fefcd99df2814436bf126d42a89d895a@5091053@ai_oswg932935oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;警惕“作秀式”用AI。</description>
-    </item>
-    <item>
-      <title>一文讲透AI产品经理：六大方向与转型指南</title>
-      <link>https://36kr.com/p/4056869551461507</link>
-      <guid isPermaLink="true">https://36kr.com/p/4056869551461507</guid>
-      <pubDate>Fri, 06 Nov 2026 00:16:04 +0000</pubDate>
-      <author>人人都是产品经理</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261106/v2_4738303de3ae4e1dbbca69598c4a38f1@5091053@ai_oswg859143oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI产品经理是个香饽饽</description>
     </item>
   </channel>
 </rss>
