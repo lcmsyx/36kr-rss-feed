@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Nov 2026 10:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:47:30 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>黄仁勋吃了上市太早的亏</title>
+      <link>https://36kr.com/p/4067755181003654</link>
+      <guid isPermaLink="true">https://36kr.com/p/4067755181003654</guid>
+      <pubDate>Sun, 15 Nov 2026 12:41:58 +0000</pubDate>
+      <author>黄绎达</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261113/v2_fbd93323ef40452d926211c2debab19d@5426566_oswg51583oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;业绩权威必须不断得到认可。</description>
+    </item>
     <item>
       <title>买了跑步机却还得付钱看视频？国外老哥一怒之下决定用Claude破解</title>
       <link>https://36kr.com/p/4069713201386369</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 11:23:56 +0000</pubDate>
       <author>AI唱反调</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261113/v2_3e302580031a4d0691114d3a6100f5a9@5888275@ai_oswg750753oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;Hydrogen上位，成搜索默认模型</description>
-    </item>
-    <item>
-      <title>腾讯不养闲人：姚顺雨拆墙，11万人换阵</title>
-      <link>https://36kr.com/p/4068064828756868</link>
-      <guid isPermaLink="true">https://36kr.com/p/4068064828756868</guid>
-      <pubDate>Fri, 13 Nov 2026 11:23:03 +0000</pubDate>
-      <author>凤凰网科技</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261113/v2_a07bb1c896eb4df2b89925b6efa9d7fe@5888275@ai_oswg930910oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;腾讯司庆日，变成了“裁员乌龙”日。</description>
     </item>
   </channel>
 </rss>
