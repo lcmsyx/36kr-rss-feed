@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:25:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:27:09 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>为什么AI反而让我们越来越忙？关于AI的3个悖论</title>
+      <link>https://36kr.com/p/4073124097987456</link>
+      <guid isPermaLink="true">https://36kr.com/p/4073124097987456</guid>
+      <pubDate>Tue, 17 Nov 2026 01:27:47 +0000</pubDate>
+      <author>卫夕指北</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261117/v2_b81eb836ac7f485eb886eb516f043dfa@5091053@ai_oswg985972oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;考恩悖论、索洛悖论和杰文斯悖论。</description>
+    </item>
     <item>
       <title>当未来不可预测，如何做职业选择？</title>
       <link>https://36kr.com/p/4073097979401092</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 11:52:06 +0000</pubDate>
       <author>新周刊</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261111/v2_4b55b6781fd34e69b97301846972dc00@5888275@ai_oswg934467oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;去农大，看风景，吃食堂。</description>
-    </item>
-    <item>
-      <title>工程师招聘跌至巅峰时期一半，Manus 取消传统编程面试，产品经理开始直接写代码</title>
-      <link>https://36kr.com/p/4065170325312640</link>
-      <guid isPermaLink="true">https://36kr.com/p/4065170325312640</guid>
-      <pubDate>Wed, 11 Nov 2026 11:32:30 +0000</pubDate>
-      <author>极客邦科技InfoQ</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261111/v2_ec02ab6c482c4ac08b8d7ee513022440@000000@ai_oswg907382oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;工程师招聘减半，AI 正在改写人才标准。</description>
     </item>
   </channel>
 </rss>
