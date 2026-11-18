@@ -5,8 +5,24 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:37:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:38:59 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>企业AI重构的五个判断</title>
+      <link>https://36kr.com/p/4074734685885319</link>
+      <guid isPermaLink="true">https://36kr.com/p/4074734685885319</guid>
+      <pubDate>Wed, 18 Nov 2026 05:02:45 +0000</pubDate>
+      <author>牛透社</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261118/v2_37b3dc6c11cd4f0181d50042cf76bcf0@5091053@ai_oswg946300oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;构建AI原生组织，控制好现金流，伺机而动。</description>
+    </item>
+    <item>
+      <title>AI微课确实有效，但员工真的会“做”了吗？</title>
+      <link>https://36kr.com/p/4074513098920837</link>
+      <guid isPermaLink="true">https://36kr.com/p/4074513098920837</guid>
+      <pubDate>Wed, 18 Nov 2026 02:09:09 +0000</pubDate>
+      <author>哈佛商业评论</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261118/v2_818c66f353e341088f5e58fe239631fa@5091053@ai_oswg849342oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI正在补齐以往技能培训中难以实现的“实战练习”过程。</description>
+    </item>
     <item>
       <title>京东、淘宝、拼多多扎堆入局短剧赛道，背后有何深意？</title>
       <link>https://36kr.com/p/4074569103397768</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 11:24:40 +0000</pubDate>
       <author>极客邦科技InfoQ</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261112/v2_49e3f153d49b4736bbdfc7b407b13a71@5888275@ai_oswg916730oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;TokenSpeed 从立项到版本迭代的完整技术路径。</description>
-    </item>
-    <item>
-      <title>AI生产力革命，为什么需要一座「新厂房」？</title>
-      <link>https://36kr.com/p/4066629010576514</link>
-      <guid isPermaLink="true">https://36kr.com/p/4066629010576514</guid>
-      <pubDate>Thu, 12 Nov 2026 10:31:18 +0000</pubDate>
-      <author>晓曦</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261112/v2_c1eef313d935410baecad8b568021f07@39566_oswg744842oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;下一个十年，真正值得关注的，是企业能否借助AI，让组织本身变得更聪明。</description>
-    </item>
-    <item>
-      <title>打“减肥针”眼睛突然看不见了？尚无可靠治疗方法</title>
-      <link>https://36kr.com/p/4066490326275200</link>
-      <guid isPermaLink="true">https://36kr.com/p/4066490326275200</guid>
-      <pubDate>Thu, 12 Nov 2026 09:59:14 +0000</pubDate>
-      <author>果壳</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261112/v2_8f1d4146c60a4a4da6a07df66a8bcd40@5888275@ai_oswg911965oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;总体风险较低，但用药者需要留意自身的视力变化。</description>
     </item>
   </channel>
 </rss>
