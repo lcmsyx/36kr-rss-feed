@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:52:29 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>企业用 AI 面试我，我能用 AI 回答吗？</title>
+      <link>https://36kr.com/p/4076486007968901</link>
+      <guid isPermaLink="true">https://36kr.com/p/4076486007968901</guid>
+      <pubDate>Thu, 19 Nov 2026 13:08:48 +0000</pubDate>
+      <author>瞎说职场</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261119/v2_fa6960dbf5544c659bb61dfd1b293637@000000@ai_oswg786198oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;一位候选人因为投屏露出了 AI 生成的答案，当场被淘汰，候选人用 AI 回答问题，算作弊吗？</description>
+    </item>
     <item>
       <title>改写行业默认，从他们的实践开始｜WISE2026特别策划ReFrame者揭晓</title>
       <link>https://36kr.com/p/4076543720854402</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 00:21:13 +0000</pubDate>
       <author>张丽俊Cherry</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261116/v2_d2a92a59e0814884a9ccdf37b73b6021@5091053@ai_oswg942307oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;淘汰一个平庸的干部，比淘汰一百个员工都有用。</description>
-    </item>
-    <item>
-      <title>美国大学新生人数血崩，哪些高校能活下来？</title>
-      <link>https://36kr.com/p/4069261964137605</link>
-      <guid isPermaLink="true">https://36kr.com/p/4069261964137605</guid>
-      <pubDate>Sat, 14 Nov 2026 07:19:11 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261114/v2_667cc5a582b244cfb953f316cd5ed5c3@000000@ai_oswg108014oswg1080oswg460_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;美国东北部与中西部高校的新生入学人数持续下滑，南部和西部院校的新生规模则稳步增长。</description>
     </item>
   </channel>
 </rss>
