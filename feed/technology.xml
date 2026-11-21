@@ -5,8 +5,24 @@
     <link>https://36kr.com/information/technology</link>
     <description>36氪 - 科技（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:01:56 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>29岁，一位字节女将爆红</title>
+      <link>https://36kr.com/p/4079215849673865</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079215849673865</guid>
+      <pubDate>Sat, 21 Nov 2026 07:54:55 +0000</pubDate>
+      <author>投资界</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_805e6c9c54954ddabfaee8e5cfeccc74@000000@ai_oswg800856oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;AI潮水。</description>
+    </item>
+    <item>
+      <title>Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑</title>
+      <link>https://36kr.com/p/4079074198705280</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079074198705280</guid>
+      <pubDate>Sat, 21 Nov 2026 06:16:36 +0000</pubDate>
+      <author>时代周报</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_c50721501f8c465bbb37e174882a8a6a@000000@ai_oswg902447oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;未上市的模型公司，其估值和未来股价可能会受到影响。</description>
+    </item>
     <item>
       <title>谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆</title>
       <link>https://36kr.com/p/4078984519750789</link>
@@ -230,22 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 11:23:55 +0000</pubDate>
       <author>第四波科技</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261120/v2_f10b4d5ca8e24d36b8b3599fea0358fc@46958@ai_oswg652483oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;花得多，还不够。</description>
-    </item>
-    <item>
-      <title>1.5万亿美元新贵，搅动美股七姐妹</title>
-      <link>https://36kr.com/p/4077880935797636</link>
-      <guid isPermaLink="true">https://36kr.com/p/4077880935797636</guid>
-      <pubDate>Fri, 20 Nov 2026 11:22:37 +0000</pubDate>
-      <author>AIX财经</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261120/v2_2ab7f52732f0468e9738f00e85e0dd36@46958@ai_oswg667949oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;巨额订单抬高行业门槛。</description>
-    </item>
-    <item>
-      <title>持续学习这道AGI前的大坎，AI也已经踏过了</title>
-      <link>https://36kr.com/p/4077623328379784</link>
-      <guid isPermaLink="true">https://36kr.com/p/4077623328379784</guid>
-      <pubDate>Fri, 20 Nov 2026 11:21:00 +0000</pubDate>
-      <author>36氪的朋友们</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261120/v2_7352b641921b4d1e947dd9094198493b@46958@ai_oswg668541oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;门一定会越修越窄，环境一定会越加越宽。AGI，没什么理由不会到来。</description>
     </item>
   </channel>
 </rss>
