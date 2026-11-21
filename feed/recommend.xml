@@ -5,8 +5,16 @@
     <link>https://36kr.com/information/web_recommend</link>
     <description>36氪 - 推荐（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:03:24 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去</title>
+      <link>https://36kr.com/p/4079476599772038</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079476599772038</guid>
+      <pubDate>Sat, 21 Nov 2026 12:44:52 +0000</pubDate>
+      <author>未来一氪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_2353162dd6d44659909275cd3c4f5451@000000_oswg35551oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;在世界尚未完成的地方，在关键产业的深水区，人们通过行动留下各自的回答。一个人的名字，由此有了属于他自己的分量。</description>
+    </item>
     <item>
       <title>美国富二代为什么不接班？</title>
       <link>https://36kr.com/p/4079110916068489</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 12:46:47 +0000</pubDate>
       <author>汽车之心</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261119/v2_3b3d350f8c1f4b56b0bd5f93549fc098@000000@ai_oswg790328oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;理想造芯，造出了汽车之外的生意。</description>
-    </item>
-    <item>
-      <title>AI视频，进入DeepSeek时刻？</title>
-      <link>https://36kr.com/p/4076581131244674</link>
-      <guid isPermaLink="true">https://36kr.com/p/4076581131244674</guid>
-      <pubDate>Thu, 19 Nov 2026 11:39:32 +0000</pubDate>
-      <author>AIX财经</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261119/v2_3d6f8e9129c04c21923994d7e2d04dde@46958@ai_oswg758042oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;模型差距在缩小，大厂差距在拉大。</description>
     </item>
   </channel>
 </rss>
