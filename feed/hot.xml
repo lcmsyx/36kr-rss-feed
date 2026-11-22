@@ -5,32 +5,8 @@
     <link>https://36kr.com/hot-list/catalog</link>
     <description>36氪 - 热门榜（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:35:03 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
-    <item>
-      <title>黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！</title>
-      <link>https://36kr.com/p/4078708897092744</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078708897092744</guid>
-      <pubDate>Sat, 21 Nov 2026 01:06:21 +0000</pubDate>
-      <author>智东西</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_56c0edddaccc402e964659aba5a717b5@000000@ai_oswg683292oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考</title>
-      <link>https://36kr.com/p/4078768364754050</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078768364754050</guid>
-      <pubDate>Sat, 21 Nov 2026 01:04:22 +0000</pubDate>
-      <author>智东西</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_d13286d440814582bb9473cf72c790c4@000000@ai_oswg902597oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市</title>
-      <link>https://36kr.com/p/4078827757310856</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078827757310856</guid>
-      <pubDate>Sat, 21 Nov 2026 01:19:00 +0000</pubDate>
-      <author>8点1氪</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_c8519e8409b240adb627e615c66cbb4e@576620215_oswg47825oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆</title>
       <link>https://36kr.com/p/4078984519750789</link>
@@ -56,20 +32,20 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_6a336b3fd2db4a15bbd3fc6558a46c9b@000000@ai_oswg740219oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>东南亚AI中间商之死</title>
-      <link>https://36kr.com/p/4078301371406215</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078301371406215</guid>
-      <pubDate>Sat, 21 Nov 2026 02:48:23 +0000</pubDate>
-      <author>版面之外</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_5d49eea2af094568add429aeee0ba4e7@000000_oswg171468oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑</title>
       <link>https://36kr.com/p/4079074198705280</link>
       <guid isPermaLink="true">https://36kr.com/p/4079074198705280</guid>
       <pubDate>Sat, 21 Nov 2026 06:16:36 +0000</pubDate>
       <author>时代周报</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_c50721501f8c465bbb37e174882a8a6a@000000@ai_oswg902447oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>东南亚AI中间商之死</title>
+      <link>https://36kr.com/p/4078301371406215</link>
+      <guid isPermaLink="true">https://36kr.com/p/4078301371406215</guid>
+      <pubDate>Sat, 21 Nov 2026 02:48:23 +0000</pubDate>
+      <author>版面之外</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_5d49eea2af094568add429aeee0ba4e7@000000_oswg171468oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>25万页证明，黎曼猜想被AI“解决”了吗？</title>
@@ -96,14 +72,6 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_9bfcfe666add43b6af0ae552d8f8889f@000000@ai_oswg828547oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“600块吃好喝好玩好”，中老年拼桌演唱会把年轻人羡慕疯了</title>
-      <link>https://36kr.com/p/4078788857926784</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078788857926784</guid>
-      <pubDate>Sat, 21 Nov 2026 01:03:11 +0000</pubDate>
-      <author>新周刊</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_02f943a2795a48c6ba9bce436706d3c8@000000@ai_oswg955949oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>日赚3亿，但《影之刃零》卖得不好</title>
       <link>https://36kr.com/p/4078992853586821</link>
       <guid isPermaLink="true">https://36kr.com/p/4078992853586821</guid>
@@ -112,20 +80,28 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_e6afa715128849078e133d3807d38c68@000000@ai_oswg722468oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施</title>
-      <link>https://36kr.com/p/4078758591960197</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078758591960197</guid>
-      <pubDate>Sat, 21 Nov 2026 01:05:23 +0000</pubDate>
-      <author>哈佛商业评论</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_f7d59a45217a42fe9a6d19f7830dd9d1@000000@ai_oswg721806oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>2万亿造富，25位华人员工接住Anthropic泼天富贵</title>
+      <link>https://36kr.com/p/4079379879252868</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079379879252868</guid>
+      <pubDate>Sun, 22 Nov 2026 00:20:12 +0000</pubDate>
+      <author>Tech星球</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_6ca233dfc1744f5aa08d04e121109eb1@000000@ai_oswg935260oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>最前线｜半导体业务成主线，TCL中环增持中环领先股权至98.52%</title>
-      <link>https://36kr.com/p/4078863230800768</link>
-      <guid isPermaLink="true">https://36kr.com/p/4078863230800768</guid>
-      <pubDate>Sat, 21 Nov 2026 01:55:14 +0000</pubDate>
-      <author>彭孝秋</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_858691369617478caa493642e72620c8@430412560@ai_oswg828452oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
+      <title>WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去</title>
+      <link>https://36kr.com/p/4079476599772038</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079476599772038</guid>
+      <pubDate>Sat, 21 Nov 2026 12:44:52 +0000</pubDate>
+      <author>未来一氪</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_2353162dd6d44659909275cd3c4f5451@000000_oswg35551oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>这届大学生，狂卷黑客松</title>
+      <link>https://36kr.com/p/4079400624411521</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079400624411521</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:46 +0000</pubDate>
+      <author>定焦One</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_1d104d15fc3d487a86ffca55f32fb12f@000000@ai_oswg588188oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>打的什么算盘？阿维塔IPO冲刺关键期，长安31.8亿挂牌转让10%股权</title>
@@ -136,12 +112,12 @@
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_b71c2032230b4dc88a9640da15342d87@000000@ai_oswg684197oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去</title>
-      <link>https://36kr.com/p/4079476599772038</link>
-      <guid isPermaLink="true">https://36kr.com/p/4079476599772038</guid>
-      <pubDate>Sat, 21 Nov 2026 12:44:52 +0000</pubDate>
-      <author>未来一氪</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_2353162dd6d44659909275cd3c4f5451@000000_oswg35551oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;</description>
+      <title>吸金10亿！《黑神话》的亲兄弟，活成全球猛男白月光</title>
+      <link>https://36kr.com/p/4079148107895682</link>
+      <guid isPermaLink="true">https://36kr.com/p/4079148107895682</guid>
+      <pubDate>Sun, 22 Nov 2026 00:40:29 +0000</pubDate>
+      <author>金错刀</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_8d4844e114494e94ad323a4e5a9ca51f@000000@ai_oswg960054oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
