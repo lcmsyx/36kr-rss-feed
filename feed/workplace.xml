@@ -5,8 +5,24 @@
     <link>https://36kr.com/information/web_zhichang</link>
     <description>36氪 - 职场（gateway API）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:17:45 +0000</lastBuildDate>
     <generator>36kr-gateway-rss</generator>
+    <item>
+      <title>花10小时改造一台“老电视”，因懒得下沙发，程序员让Claude写代码：看剧、打游戏全靠一个遥控器</title>
+      <link>https://36kr.com/p/4085017583430024</link>
+      <guid isPermaLink="true">https://36kr.com/p/4085017583430024</guid>
+      <pubDate>Wed, 25 Nov 2026 12:21:35 +0000</pubDate>
+      <author>CSDN</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261125/v2_373f575662e3463090881446b0007452@5888275_oswg275705oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center" /&gt;&lt;/p&gt;一场从「不想起身」开始的 DIY 项目就此展开，这一次他还拉来了 Claude 当帮手。</description>
+    </item>
+    <item>
+      <title>老板要求「顺便加个功能」，FDE 怎么回答</title>
+      <link>https://36kr.com/p/4084703040875136</link>
+      <guid isPermaLink="true">https://36kr.com/p/4084703040875136</guid>
+      <pubDate>Wed, 25 Nov 2026 10:02:17 +0000</pubDate>
+      <author>人人都是产品经理</author>
+      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261125/v2_c5f84a99c0834a7d976407fad0fecc6b@000000@ai_oswg842153oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;听懂那句“顺便”背后的潜台词</description>
+    </item>
     <item>
       <title>机器人上班、火箭卫星登场｜WISE把一座未来之城搬到了现场</title>
       <link>https://36kr.com/p/4084605857753478</link>
@@ -230,22 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 00:01:05 +0000</pubDate>
       <author>青年志Youthology</author>
       <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261122/v2_03b7e40688ca4d0b90f9c0c969df668d@000000@ai_oswg885539oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;娜娜是许飞的，飞雪是我们所有人的！</description>
-    </item>
-    <item>
-      <title>FDE火了，先查它的主数据</title>
-      <link>https://36kr.com/p/4080368433009798</link>
-      <guid isPermaLink="true">https://36kr.com/p/4080368433009798</guid>
-      <pubDate>Sun, 22 Nov 2026 23:56:18 +0000</pubDate>
-      <author>王建峰</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261122/v2_ca9d2765ce2d4d8a9387c41d1ebca081@000000@ai_oswg800469oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;以数据治理手艺拆解FDE热词，给数据人留实用启示。</description>
-    </item>
-    <item>
-      <title>2万亿造富，25位华人员工接住Anthropic泼天富贵</title>
-      <link>https://36kr.com/p/4079379879252868</link>
-      <guid isPermaLink="true">https://36kr.com/p/4079379879252868</guid>
-      <pubDate>Sun, 22 Nov 2026 00:20:12 +0000</pubDate>
-      <author>Tech星球</author>
-      <description>&lt;p&gt;&lt;img src="https://img.36krcdn.com/hsossms/20261121/v2_6ca233dfc1744f5aa08d04e121109eb1@000000@ai_oswg935260oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg" /&gt;&lt;/p&gt;Anthropic造富，谁接住了泼天富贵？</description>
     </item>
   </channel>
 </rss>
